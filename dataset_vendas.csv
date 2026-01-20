@@ -1,0 +1,1801 @@
+data,produto,categoria,regiao,canal_venda,quantidade,preco_unitario,desconto_percentual,receita_bruta,receita_liquida
+2023-11-24,Mouse,Eletrônicos,Sul,Online,1,120,0.05,120,114.0
+2023-03-13,Webcam,Eletrônicos,Sudeste,Marketplace,2,420,0.15,840,714.0
+2023-08-05,Notebook,Eletrônicos,Sul,Online,1,3500,0.0,3500,3500.0
+2023-09-16,Curso Online,Educação,Sul,Marketplace,1,500,0.15,500,425.0
+2023-11-29,Webcam,Eletrônicos,Centro-Oeste,Marketplace,7,420,0.0,2940,2940.0
+2023-05-23,Notebook,Eletrônicos,Nordeste,Loja Física,3,3500,0.1,10500,9450.0
+2023-03-21,Monitor,Eletrônicos,Sudeste,Loja Física,6,1100,0.0,6600,6600.0
+2023-02-19,Cadeira Gamer,Móveis,Nordeste,Online,6,950,0.15,5700,4845.0
+2023-08-24,Livro Técnico,Livros,Sudeste,Marketplace,2,200,0.1,400,360.0
+2023-05-31,Fone Bluetooth,Eletrônicos,Sul,Marketplace,6,350,0.15,2100,1785.0
+2023-02-05,Notebook,Eletrônicos,Sudeste,Online,4,3500,0.05,14000,13300.0
+2023-02-21,Mesa Escritório,Móveis,Nordeste,Online,5,1400,0.1,7000,6300.0
+2023-07-09,Cadeira Gamer,Móveis,Sudeste,Marketplace,4,950,0.05,3800,3610.0
+2023-11-22,Teclado,Eletrônicos,Centro-Oeste,Loja Física,4,250,0.0,1000,1000.0
+2023-05-19,Fone Bluetooth,Eletrônicos,Sudeste,Online,4,350,0.05,1400,1330.0
+2023-01-17,Cadeira Gamer,Móveis,Sudeste,Online,7,950,0.05,6650,6317.5
+2023-10-18,Webcam,Eletrônicos,Centro-Oeste,Loja Física,6,420,0.0,2520,2520.0
+2023-11-26,Armário,Móveis,Sul,Online,3,1800,0.05,5400,5130.0
+2023-10-15,Livro Técnico,Livros,Centro-Oeste,Marketplace,5,200,0.15,1000,850.0
+2023-07-24,Cadeira Gamer,Móveis,Norte,Loja Física,4,950,0.0,3800,3800.0
+2023-02-16,Notebook,Eletrônicos,Sul,Marketplace,2,3500,0.0,7000,7000.0
+2023-08-05,Curso Online,Educação,Centro-Oeste,Marketplace,2,500,0.1,1000,900.0
+2023-08-28,Livro Técnico,Livros,Sudeste,Marketplace,5,200,0.15,1000,850.0
+2023-02-28,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,5,350,0.05,1750,1662.5
+2023-08-11,Teclado,Eletrônicos,Nordeste,Marketplace,8,250,0.0,2000,2000.0
+2023-04-02,Livro Técnico,Livros,Norte,Marketplace,2,200,0.05,400,380.0
+2023-04-12,Teclado,Eletrônicos,Norte,Marketplace,6,250,0.0,1500,1500.0
+2023-01-01,Curso Online,Educação,Sudeste,Online,6,500,0.1,3000,2700.0
+2023-07-05,Smartphone,Eletrônicos,Sul,Marketplace,4,2800,0.0,11200,11200.0
+2023-02-10,Mouse,Eletrônicos,Norte,Online,8,120,0.0,960,960.0
+2023-03-07,Fone Bluetooth,Eletrônicos,Sul,Loja Física,8,350,0.15,2800,2380.0
+2023-09-28,Curso Online,Educação,Norte,Marketplace,7,500,0.0,3500,3500.0
+2023-12-20,Monitor,Eletrônicos,Nordeste,Loja Física,5,1100,0.1,5500,4950.0
+2023-09-22,Armário,Móveis,Sul,Online,2,1800,0.0,3600,3600.0
+2023-06-23,Notebook,Eletrônicos,Sul,Online,4,3500,0.15,14000,11900.0
+2023-02-06,Webcam,Eletrônicos,Sudeste,Online,1,420,0.0,420,420.0
+2023-06-19,Mouse,Eletrônicos,Centro-Oeste,Online,4,120,0.05,480,456.0
+2023-10-04,Teclado,Eletrônicos,Centro-Oeste,Loja Física,8,250,0.0,2000,2000.0
+2023-04-08,Mouse,Eletrônicos,Nordeste,Loja Física,2,120,0.1,240,216.0
+2023-07-30,Armário,Móveis,Sudeste,Loja Física,1,1800,0.0,1800,1800.0
+2023-06-23,Mouse,Eletrônicos,Sul,Marketplace,4,120,0.0,480,480.0
+2023-08-18,Teclado,Eletrônicos,Nordeste,Loja Física,7,250,0.0,1750,1750.0
+2023-05-08,Mouse,Eletrônicos,Sudeste,Online,8,120,0.15,960,816.0
+2023-11-30,Livro Técnico,Livros,Sul,Online,1,200,0.0,200,200.0
+2023-07-28,Armário,Móveis,Centro-Oeste,Online,8,1800,0.0,14400,14400.0
+2023-03-26,Mesa Escritório,Móveis,Nordeste,Loja Física,1,1400,0.1,1400,1260.0
+2023-05-27,Mesa Escritório,Móveis,Sul,Loja Física,8,1400,0.0,11200,11200.0
+2023-04-22,Notebook,Eletrônicos,Sudeste,Online,1,3500,0.05,3500,3325.0
+2023-10-27,Armário,Móveis,Norte,Online,3,1800,0.0,5400,5400.0
+2023-04-06,Mouse,Eletrônicos,Centro-Oeste,Online,2,120,0.0,240,240.0
+2023-10-19,Monitor,Eletrônicos,Sudeste,Loja Física,1,1100,0.15,1100,935.0
+2023-12-03,Curso Online,Educação,Sul,Marketplace,6,500,0.05,3000,2850.0
+2023-06-10,Monitor,Eletrônicos,Sul,Marketplace,5,1100,0.1,5500,4950.0
+2023-11-27,Smartphone,Eletrônicos,Sudeste,Online,8,2800,0.05,22400,21280.0
+2023-08-23,Curso Online,Educação,Norte,Online,2,500,0.0,1000,1000.0
+2023-09-17,Smartphone,Eletrônicos,Sudeste,Online,3,2800,0.05,8400,7980.0
+2023-07-09,Smartphone,Eletrônicos,Norte,Marketplace,3,2800,0.1,8400,7560.0
+2023-06-04,Curso Online,Educação,Nordeste,Marketplace,1,500,0.15,500,425.0
+2023-02-23,Teclado,Eletrônicos,Sudeste,Marketplace,5,250,0.0,1250,1250.0
+2023-10-11,Teclado,Eletrônicos,Norte,Online,5,250,0.05,1250,1187.5
+2023-06-25,Monitor,Eletrônicos,Centro-Oeste,Loja Física,5,1100,0.15,5500,4675.0
+2023-01-27,Mouse,Eletrônicos,Sudeste,Online,7,120,0.05,840,798.0
+2023-06-20,Teclado,Eletrônicos,Centro-Oeste,Marketplace,5,250,0.0,1250,1250.0
+2023-12-28,Mesa Escritório,Móveis,Sudeste,Marketplace,1,1400,0.0,1400,1400.0
+2023-03-18,Livro Técnico,Livros,Norte,Marketplace,1,200,0.05,200,190.0
+2023-03-17,Mesa Escritório,Móveis,Nordeste,Loja Física,3,1400,0.0,4200,4200.0
+2023-01-21,Cadeira Gamer,Móveis,Sudeste,Loja Física,4,950,0.0,3800,3800.0
+2023-10-14,Mesa Escritório,Móveis,Sul,Online,3,1400,0.0,4200,4200.0
+2023-07-31,Notebook,Eletrônicos,Centro-Oeste,Marketplace,3,3500,0.05,10500,9975.0
+2023-05-08,Smartphone,Eletrônicos,Centro-Oeste,Online,3,2800,0.0,8400,8400.0
+2023-08-29,Monitor,Eletrônicos,Nordeste,Loja Física,4,1100,0.1,4400,3960.0
+2023-04-27,Monitor,Eletrônicos,Centro-Oeste,Loja Física,1,1100,0.0,1100,1100.0
+2023-05-23,Mouse,Eletrônicos,Norte,Loja Física,5,120,0.05,600,570.0
+2023-12-14,Livro Técnico,Livros,Sudeste,Loja Física,6,200,0.0,1200,1200.0
+2023-04-02,Curso Online,Educação,Sudeste,Marketplace,5,500,0.0,2500,2500.0
+2023-08-11,Cadeira Gamer,Móveis,Norte,Marketplace,6,950,0.1,5700,5130.0
+2023-03-01,Mesa Escritório,Móveis,Sudeste,Marketplace,4,1400,0.05,5600,5320.0
+2023-08-12,Notebook,Eletrônicos,Centro-Oeste,Online,4,3500,0.05,14000,13300.0
+2023-12-07,Cadeira Gamer,Móveis,Nordeste,Marketplace,6,950,0.0,5700,5700.0
+2023-06-08,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,7,350,0.05,2450,2327.5
+2023-06-01,Livro Técnico,Livros,Centro-Oeste,Marketplace,3,200,0.0,600,600.0
+2023-07-14,Fone Bluetooth,Eletrônicos,Norte,Loja Física,3,350,0.15,1050,892.5
+2023-07-27,Livro Técnico,Livros,Nordeste,Online,1,200,0.05,200,190.0
+2023-08-09,Curso Online,Educação,Centro-Oeste,Loja Física,6,500,0.1,3000,2700.0
+2023-12-12,Monitor,Eletrônicos,Sudeste,Loja Física,8,1100,0.0,8800,8800.0
+2023-09-21,Fone Bluetooth,Eletrônicos,Sul,Marketplace,6,350,0.0,2100,2100.0
+2023-06-08,Monitor,Eletrônicos,Sudeste,Online,4,1100,0.0,4400,4400.0
+2023-05-06,Armário,Móveis,Centro-Oeste,Marketplace,2,1800,0.1,3600,3240.0
+2023-10-22,Monitor,Eletrônicos,Centro-Oeste,Online,7,1100,0.1,7700,6930.0
+2023-03-17,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,1,350,0.0,350,350.0
+2023-04-01,Webcam,Eletrônicos,Norte,Online,8,420,0.0,3360,3360.0
+2023-03-04,Armário,Móveis,Norte,Marketplace,3,1800,0.1,5400,4860.0
+2023-11-01,Cadeira Gamer,Móveis,Norte,Loja Física,8,950,0.15,7600,6460.0
+2023-10-08,Armário,Móveis,Centro-Oeste,Loja Física,3,1800,0.1,5400,4860.0
+2023-05-07,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,5,350,0.15,1750,1487.5
+2023-05-03,Smartphone,Eletrônicos,Nordeste,Online,8,2800,0.0,22400,22400.0
+2023-05-20,Cadeira Gamer,Móveis,Sudeste,Online,6,950,0.15,5700,4845.0
+2023-03-19,Monitor,Eletrônicos,Sul,Online,7,1100,0.0,7700,7700.0
+2023-08-01,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.15,8400,7140.0
+2023-02-01,Monitor,Eletrônicos,Norte,Marketplace,7,1100,0.1,7700,6930.0
+2023-01-11,Curso Online,Educação,Sudeste,Loja Física,7,500,0.1,3500,3150.0
+2023-06-02,Mesa Escritório,Móveis,Norte,Marketplace,7,1400,0.15,9800,8330.0
+2023-04-23,Armário,Móveis,Centro-Oeste,Loja Física,4,1800,0.05,7200,6840.0
+2023-01-15,Mesa Escritório,Móveis,Sul,Loja Física,6,1400,0.1,8400,7560.0
+2023-03-07,Curso Online,Educação,Norte,Marketplace,1,500,0.1,500,450.0
+2023-12-06,Notebook,Eletrônicos,Sul,Loja Física,2,3500,0.1,7000,6300.0
+2023-04-04,Notebook,Eletrônicos,Nordeste,Online,5,3500,0.1,17500,15750.0
+2023-08-21,Cadeira Gamer,Móveis,Nordeste,Loja Física,6,950,0.1,5700,5130.0
+2023-05-10,Mouse,Eletrônicos,Norte,Online,8,120,0.0,960,960.0
+2023-06-29,Monitor,Eletrônicos,Sudeste,Online,2,1100,0.0,2200,2200.0
+2023-04-13,Notebook,Eletrônicos,Sul,Loja Física,3,3500,0.0,10500,10500.0
+2023-12-09,Mouse,Eletrônicos,Nordeste,Loja Física,4,120,0.1,480,432.0
+2023-03-27,Curso Online,Educação,Nordeste,Online,2,500,0.0,1000,1000.0
+2023-10-24,Notebook,Eletrônicos,Centro-Oeste,Loja Física,5,3500,0.15,17500,14875.0
+2023-04-12,Mouse,Eletrônicos,Nordeste,Marketplace,4,120,0.0,480,480.0
+2023-11-04,Mouse,Eletrônicos,Norte,Loja Física,1,120,0.05,120,114.0
+2023-12-05,Cadeira Gamer,Móveis,Nordeste,Online,2,950,0.15,1900,1615.0
+2023-08-04,Armário,Móveis,Nordeste,Marketplace,2,1800,0.1,3600,3240.0
+2023-08-24,Webcam,Eletrônicos,Sul,Marketplace,3,420,0.1,1260,1134.0
+2023-09-25,Fone Bluetooth,Eletrônicos,Norte,Loja Física,5,350,0.15,1750,1487.5
+2023-08-27,Mesa Escritório,Móveis,Sul,Online,5,1400,0.05,7000,6650.0
+2023-05-23,Armário,Móveis,Norte,Marketplace,4,1800,0.1,7200,6480.0
+2023-12-09,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.0,8400,8400.0
+2023-04-04,Armário,Móveis,Nordeste,Loja Física,4,1800,0.05,7200,6840.0
+2023-05-24,Curso Online,Educação,Sudeste,Marketplace,5,500,0.15,2500,2125.0
+2023-04-08,Mouse,Eletrônicos,Centro-Oeste,Marketplace,4,120,0.1,480,432.0
+2023-05-04,Webcam,Eletrônicos,Centro-Oeste,Online,8,420,0.1,3360,3024.0
+2023-02-17,Smartphone,Eletrônicos,Sul,Loja Física,4,2800,0.1,11200,10080.0
+2023-12-06,Curso Online,Educação,Norte,Marketplace,6,500,0.1,3000,2700.0
+2023-06-26,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.05,8400,7980.0
+2023-06-06,Smartphone,Eletrônicos,Sul,Loja Física,4,2800,0.0,11200,11200.0
+2023-03-03,Webcam,Eletrônicos,Sul,Marketplace,3,420,0.0,1260,1260.0
+2023-09-05,Smartphone,Eletrônicos,Sul,Loja Física,5,2800,0.0,14000,14000.0
+2023-04-27,Cadeira Gamer,Móveis,Sudeste,Marketplace,3,950,0.05,2850,2707.5
+2023-10-01,Teclado,Eletrônicos,Sudeste,Marketplace,5,250,0.0,1250,1250.0
+2023-05-30,Webcam,Eletrônicos,Sudeste,Online,3,420,0.1,1260,1134.0
+2023-10-21,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,8,2800,0.1,22400,20160.0
+2023-04-05,Notebook,Eletrônicos,Sudeste,Online,5,3500,0.1,17500,15750.0
+2023-07-25,Armário,Móveis,Sudeste,Online,2,1800,0.15,3600,3060.0
+2023-03-18,Curso Online,Educação,Sul,Online,5,500,0.0,2500,2500.0
+2023-10-13,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,4,1400,0.15,5600,4760.0
+2023-08-15,Smartphone,Eletrônicos,Norte,Marketplace,7,2800,0.05,19600,18620.0
+2023-01-31,Curso Online,Educação,Sul,Loja Física,2,500,0.0,1000,1000.0
+2023-12-05,Mouse,Eletrônicos,Sul,Marketplace,3,120,0.0,360,360.0
+2023-02-08,Teclado,Eletrônicos,Centro-Oeste,Marketplace,1,250,0.1,250,225.0
+2023-11-01,Armário,Móveis,Sul,Loja Física,5,1800,0.0,9000,9000.0
+2023-12-28,Smartphone,Eletrônicos,Sul,Loja Física,8,2800,0.0,22400,22400.0
+2023-11-17,Curso Online,Educação,Sudeste,Marketplace,4,500,0.1,2000,1800.0
+2023-04-26,Fone Bluetooth,Eletrônicos,Sul,Online,3,350,0.05,1050,997.5
+2023-01-31,Teclado,Eletrônicos,Norte,Loja Física,5,250,0.15,1250,1062.5
+2023-08-13,Mouse,Eletrônicos,Centro-Oeste,Loja Física,8,120,0.05,960,912.0
+2023-09-14,Livro Técnico,Livros,Sudeste,Marketplace,8,200,0.1,1600,1440.0
+2023-01-21,Mesa Escritório,Móveis,Nordeste,Online,6,1400,0.15,8400,7140.0
+2023-02-16,Monitor,Eletrônicos,Norte,Online,1,1100,0.05,1100,1045.0
+2023-03-31,Armário,Móveis,Sul,Marketplace,8,1800,0.05,14400,13680.0
+2023-08-12,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,8,350,0.0,2800,2800.0
+2023-07-29,Cadeira Gamer,Móveis,Sul,Loja Física,6,950,0.0,5700,5700.0
+2023-07-30,Webcam,Eletrônicos,Centro-Oeste,Marketplace,8,420,0.05,3360,3192.0
+2023-01-19,Armário,Móveis,Nordeste,Loja Física,2,1800,0.05,3600,3420.0
+2023-03-01,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,1,1400,0.15,1400,1190.0
+2023-01-28,Monitor,Eletrônicos,Centro-Oeste,Marketplace,6,1100,0.15,6600,5610.0
+2023-08-15,Notebook,Eletrônicos,Norte,Online,4,3500,0.05,14000,13300.0
+2023-05-28,Armário,Móveis,Sudeste,Marketplace,8,1800,0.0,14400,14400.0
+2023-11-08,Monitor,Eletrônicos,Norte,Online,3,1100,0.05,3300,3135.0
+2023-10-10,Mesa Escritório,Móveis,Sudeste,Loja Física,2,1400,0.0,2800,2800.0
+2023-03-02,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,3,350,0.1,1050,945.0
+2023-12-28,Smartphone,Eletrônicos,Centro-Oeste,Online,7,2800,0.1,19600,17640.0
+2023-08-22,Livro Técnico,Livros,Sul,Marketplace,3,200,0.1,600,540.0
+2023-09-18,Webcam,Eletrônicos,Nordeste,Loja Física,3,420,0.0,1260,1260.0
+2023-06-24,Livro Técnico,Livros,Nordeste,Marketplace,5,200,0.0,1000,1000.0
+2023-06-02,Curso Online,Educação,Centro-Oeste,Marketplace,8,500,0.0,4000,4000.0
+2023-09-05,Cadeira Gamer,Móveis,Norte,Loja Física,6,950,0.15,5700,4845.0
+2023-08-22,Cadeira Gamer,Móveis,Norte,Loja Física,4,950,0.0,3800,3800.0
+2023-04-30,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,1,1400,0.05,1400,1330.0
+2023-07-15,Mesa Escritório,Móveis,Sudeste,Online,3,1400,0.1,4200,3780.0
+2023-09-15,Curso Online,Educação,Centro-Oeste,Online,6,500,0.0,3000,3000.0
+2023-09-27,Armário,Móveis,Centro-Oeste,Marketplace,1,1800,0.0,1800,1800.0
+2023-03-21,Mouse,Eletrônicos,Nordeste,Marketplace,8,120,0.05,960,912.0
+2023-12-21,Mesa Escritório,Móveis,Norte,Loja Física,2,1400,0.05,2800,2660.0
+2023-06-12,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,8,350,0.15,2800,2380.0
+2023-02-05,Monitor,Eletrônicos,Sudeste,Loja Física,5,1100,0.0,5500,5500.0
+2023-02-20,Fone Bluetooth,Eletrônicos,Sul,Marketplace,2,350,0.1,700,630.0
+2023-06-03,Notebook,Eletrônicos,Sudeste,Loja Física,1,3500,0.05,3500,3325.0
+2023-07-03,Cadeira Gamer,Móveis,Sul,Marketplace,7,950,0.0,6650,6650.0
+2023-07-30,Curso Online,Educação,Sul,Online,3,500,0.0,1500,1500.0
+2023-11-09,Mesa Escritório,Móveis,Norte,Online,4,1400,0.1,5600,5040.0
+2023-04-29,Armário,Móveis,Nordeste,Marketplace,5,1800,0.1,9000,8100.0
+2023-01-05,Armário,Móveis,Sul,Online,5,1800,0.15,9000,7650.0
+2023-08-15,Cadeira Gamer,Móveis,Nordeste,Loja Física,5,950,0.1,4750,4275.0
+2023-06-04,Monitor,Eletrônicos,Sudeste,Online,7,1100,0.1,7700,6930.0
+2023-07-15,Curso Online,Educação,Nordeste,Marketplace,6,500,0.15,3000,2550.0
+2023-06-01,Notebook,Eletrônicos,Sudeste,Marketplace,7,3500,0.05,24500,23275.0
+2023-12-18,Webcam,Eletrônicos,Centro-Oeste,Loja Física,1,420,0.15,420,357.0
+2023-04-28,Curso Online,Educação,Sul,Marketplace,6,500,0.0,3000,3000.0
+2023-05-09,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,3,350,0.0,1050,1050.0
+2023-08-14,Notebook,Eletrônicos,Sudeste,Loja Física,6,3500,0.0,21000,21000.0
+2023-06-17,Webcam,Eletrônicos,Sul,Online,7,420,0.0,2940,2940.0
+2023-10-04,Cadeira Gamer,Móveis,Nordeste,Loja Física,5,950,0.0,4750,4750.0
+2023-06-01,Webcam,Eletrônicos,Centro-Oeste,Online,6,420,0.0,2520,2520.0
+2023-03-14,Monitor,Eletrônicos,Nordeste,Online,7,1100,0.15,7700,6545.0
+2023-07-22,Notebook,Eletrônicos,Sudeste,Loja Física,5,3500,0.15,17500,14875.0
+2023-07-08,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,5,350,0.15,1750,1487.5
+2023-07-10,Mouse,Eletrônicos,Sudeste,Marketplace,4,120,0.1,480,432.0
+2023-10-15,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,4,950,0.0,3800,3800.0
+2023-06-04,Fone Bluetooth,Eletrônicos,Sul,Online,7,350,0.0,2450,2450.0
+2023-01-20,Smartphone,Eletrônicos,Sudeste,Online,8,2800,0.0,22400,22400.0
+2023-10-03,Teclado,Eletrônicos,Nordeste,Marketplace,7,250,0.1,1750,1575.0
+2023-12-23,Livro Técnico,Livros,Sul,Loja Física,7,200,0.15,1400,1190.0
+2023-12-02,Mouse,Eletrônicos,Centro-Oeste,Loja Física,8,120,0.15,960,816.0
+2023-01-17,Webcam,Eletrônicos,Centro-Oeste,Loja Física,6,420,0.0,2520,2520.0
+2023-05-01,Cadeira Gamer,Móveis,Norte,Marketplace,2,950,0.05,1900,1805.0
+2023-07-03,Notebook,Eletrônicos,Sul,Online,7,3500,0.05,24500,23275.0
+2023-08-21,Mouse,Eletrônicos,Sudeste,Online,4,120,0.15,480,408.0
+2023-06-20,Monitor,Eletrônicos,Sul,Online,3,1100,0.15,3300,2805.0
+2023-10-11,Monitor,Eletrônicos,Nordeste,Online,4,1100,0.0,4400,4400.0
+2023-11-02,Notebook,Eletrônicos,Sul,Marketplace,5,3500,0.0,17500,17500.0
+2023-05-09,Teclado,Eletrônicos,Sul,Online,2,250,0.0,500,500.0
+2023-07-03,Monitor,Eletrônicos,Sul,Loja Física,6,1100,0.0,6600,6600.0
+2023-01-27,Teclado,Eletrônicos,Sudeste,Marketplace,7,250,0.15,1750,1487.5
+2023-02-02,Armário,Móveis,Norte,Marketplace,8,1800,0.05,14400,13680.0
+2023-02-25,Armário,Móveis,Sudeste,Marketplace,4,1800,0.15,7200,6120.0
+2023-12-04,Livro Técnico,Livros,Sudeste,Online,5,200,0.1,1000,900.0
+2023-09-03,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,7,1400,0.0,9800,9800.0
+2023-08-16,Mouse,Eletrônicos,Norte,Online,2,120,0.05,240,228.0
+2023-02-03,Teclado,Eletrônicos,Norte,Marketplace,5,250,0.15,1250,1062.5
+2023-12-31,Cadeira Gamer,Móveis,Norte,Loja Física,7,950,0.15,6650,5652.5
+2023-08-21,Livro Técnico,Livros,Sudeste,Marketplace,7,200,0.0,1400,1400.0
+2023-11-30,Livro Técnico,Livros,Centro-Oeste,Online,4,200,0.1,800,720.0
+2023-07-31,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,8,950,0.1,7600,6840.0
+2023-02-18,Cadeira Gamer,Móveis,Nordeste,Loja Física,7,950,0.05,6650,6317.5
+2023-03-20,Fone Bluetooth,Eletrônicos,Sudeste,Online,8,350,0.0,2800,2800.0
+2023-02-17,Mesa Escritório,Móveis,Sul,Marketplace,2,1400,0.05,2800,2660.0
+2023-01-31,Curso Online,Educação,Centro-Oeste,Loja Física,6,500,0.0,3000,3000.0
+2023-12-07,Mesa Escritório,Móveis,Norte,Loja Física,1,1400,0.05,1400,1330.0
+2023-06-30,Mouse,Eletrônicos,Centro-Oeste,Online,4,120,0.0,480,480.0
+2023-02-25,Cadeira Gamer,Móveis,Nordeste,Marketplace,6,950,0.0,5700,5700.0
+2023-04-26,Mesa Escritório,Móveis,Nordeste,Online,1,1400,0.15,1400,1190.0
+2023-04-03,Smartphone,Eletrônicos,Nordeste,Online,5,2800,0.05,14000,13300.0
+2023-04-03,Teclado,Eletrônicos,Sul,Marketplace,7,250,0.0,1750,1750.0
+2023-11-21,Notebook,Eletrônicos,Sul,Loja Física,2,3500,0.15,7000,5950.0
+2023-08-03,Armário,Móveis,Nordeste,Loja Física,6,1800,0.0,10800,10800.0
+2023-06-16,Curso Online,Educação,Sul,Online,2,500,0.0,1000,1000.0
+2023-11-13,Notebook,Eletrônicos,Centro-Oeste,Marketplace,2,3500,0.05,7000,6650.0
+2023-08-06,Armário,Móveis,Nordeste,Online,8,1800,0.1,14400,12960.0
+2023-09-20,Mouse,Eletrônicos,Sudeste,Loja Física,6,120,0.1,720,648.0
+2023-12-14,Fone Bluetooth,Eletrônicos,Nordeste,Online,8,350,0.15,2800,2380.0
+2023-04-23,Mesa Escritório,Móveis,Sul,Loja Física,1,1400,0.0,1400,1400.0
+2023-04-19,Teclado,Eletrônicos,Nordeste,Online,5,250,0.05,1250,1187.5
+2023-01-04,Armário,Móveis,Sul,Loja Física,7,1800,0.0,12600,12600.0
+2023-09-30,Webcam,Eletrônicos,Norte,Marketplace,4,420,0.15,1680,1428.0
+2023-07-01,Mouse,Eletrônicos,Centro-Oeste,Online,7,120,0.0,840,840.0
+2023-08-24,Mouse,Eletrônicos,Centro-Oeste,Marketplace,6,120,0.15,720,612.0
+2023-07-27,Webcam,Eletrônicos,Sudeste,Loja Física,7,420,0.05,2940,2793.0
+2023-01-11,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,3,950,0.15,2850,2422.5
+2023-07-05,Mouse,Eletrônicos,Sul,Loja Física,7,120,0.0,840,840.0
+2023-10-29,Mesa Escritório,Móveis,Nordeste,Marketplace,2,1400,0.1,2800,2520.0
+2023-06-23,Monitor,Eletrônicos,Sudeste,Marketplace,6,1100,0.0,6600,6600.0
+2023-11-21,Mouse,Eletrônicos,Nordeste,Marketplace,4,120,0.05,480,456.0
+2023-11-27,Teclado,Eletrônicos,Sul,Loja Física,4,250,0.0,1000,1000.0
+2023-04-12,Teclado,Eletrônicos,Sul,Marketplace,3,250,0.0,750,750.0
+2023-09-10,Armário,Móveis,Norte,Loja Física,8,1800,0.15,14400,12240.0
+2023-11-18,Cadeira Gamer,Móveis,Sudeste,Loja Física,3,950,0.1,2850,2565.0
+2023-08-15,Fone Bluetooth,Eletrônicos,Norte,Online,5,350,0.05,1750,1662.5
+2023-06-30,Livro Técnico,Livros,Centro-Oeste,Loja Física,2,200,0.05,400,380.0
+2023-01-20,Notebook,Eletrônicos,Sudeste,Marketplace,6,3500,0.05,21000,19950.0
+2023-02-16,Curso Online,Educação,Norte,Marketplace,7,500,0.1,3500,3150.0
+2023-01-22,Armário,Móveis,Norte,Loja Física,4,1800,0.05,7200,6840.0
+2023-09-14,Teclado,Eletrônicos,Sudeste,Loja Física,1,250,0.1,250,225.0
+2023-02-13,Livro Técnico,Livros,Sul,Marketplace,3,200,0.0,600,600.0
+2023-08-13,Armário,Móveis,Nordeste,Loja Física,3,1800,0.05,5400,5130.0
+2023-07-18,Mesa Escritório,Móveis,Sudeste,Marketplace,6,1400,0.15,8400,7140.0
+2023-11-28,Cadeira Gamer,Móveis,Sudeste,Marketplace,2,950,0.05,1900,1805.0
+2023-12-14,Mesa Escritório,Móveis,Norte,Online,5,1400,0.05,7000,6650.0
+2023-06-20,Mouse,Eletrônicos,Nordeste,Marketplace,3,120,0.05,360,342.0
+2023-12-24,Fone Bluetooth,Eletrônicos,Norte,Marketplace,7,350,0.0,2450,2450.0
+2023-02-13,Smartphone,Eletrônicos,Sul,Marketplace,7,2800,0.05,19600,18620.0
+2023-12-26,Webcam,Eletrônicos,Norte,Loja Física,2,420,0.1,840,756.0
+2023-01-10,Cadeira Gamer,Móveis,Sul,Loja Física,5,950,0.0,4750,4750.0
+2023-09-06,Monitor,Eletrônicos,Sul,Online,4,1100,0.0,4400,4400.0
+2023-06-01,Mouse,Eletrônicos,Norte,Online,1,120,0.05,120,114.0
+2023-11-02,Mesa Escritório,Móveis,Sul,Marketplace,3,1400,0.0,4200,4200.0
+2023-11-16,Teclado,Eletrônicos,Centro-Oeste,Loja Física,8,250,0.0,2000,2000.0
+2023-12-13,Webcam,Eletrônicos,Norte,Loja Física,4,420,0.1,1680,1512.0
+2023-08-18,Monitor,Eletrônicos,Centro-Oeste,Online,4,1100,0.05,4400,4180.0
+2023-07-08,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,8,350,0.1,2800,2520.0
+2023-09-15,Livro Técnico,Livros,Sul,Marketplace,7,200,0.0,1400,1400.0
+2023-03-12,Smartphone,Eletrônicos,Nordeste,Marketplace,1,2800,0.1,2800,2520.0
+2023-02-22,Webcam,Eletrônicos,Sudeste,Online,2,420,0.05,840,798.0
+2023-05-20,Armário,Móveis,Sudeste,Online,3,1800,0.1,5400,4860.0
+2023-08-19,Cadeira Gamer,Móveis,Sudeste,Loja Física,1,950,0.1,950,855.0
+2023-09-15,Cadeira Gamer,Móveis,Sudeste,Loja Física,4,950,0.1,3800,3420.0
+2023-04-25,Notebook,Eletrônicos,Nordeste,Online,6,3500,0.0,21000,21000.0
+2023-03-12,Notebook,Eletrônicos,Sul,Marketplace,5,3500,0.1,17500,15750.0
+2023-08-29,Armário,Móveis,Sudeste,Loja Física,1,1800,0.0,1800,1800.0
+2023-04-21,Teclado,Eletrônicos,Nordeste,Online,7,250,0.0,1750,1750.0
+2023-06-04,Mouse,Eletrônicos,Centro-Oeste,Marketplace,1,120,0.0,120,120.0
+2023-11-15,Armário,Móveis,Centro-Oeste,Marketplace,2,1800,0.0,3600,3600.0
+2023-10-02,Notebook,Eletrônicos,Nordeste,Loja Física,4,3500,0.0,14000,14000.0
+2023-01-01,Curso Online,Educação,Norte,Loja Física,6,500,0.0,3000,3000.0
+2023-04-06,Fone Bluetooth,Eletrônicos,Nordeste,Online,2,350,0.15,700,595.0
+2023-09-27,Livro Técnico,Livros,Centro-Oeste,Online,1,200,0.1,200,180.0
+2023-11-22,Mesa Escritório,Móveis,Sudeste,Loja Física,6,1400,0.05,8400,7980.0
+2023-02-04,Cadeira Gamer,Móveis,Norte,Marketplace,4,950,0.0,3800,3800.0
+2023-06-20,Teclado,Eletrônicos,Norte,Loja Física,1,250,0.05,250,237.5
+2023-11-26,Teclado,Eletrônicos,Sul,Online,8,250,0.1,2000,1800.0
+2023-02-02,Webcam,Eletrônicos,Nordeste,Online,8,420,0.0,3360,3360.0
+2023-01-23,Monitor,Eletrônicos,Nordeste,Marketplace,1,1100,0.05,1100,1045.0
+2023-07-23,Livro Técnico,Livros,Sudeste,Marketplace,8,200,0.05,1600,1520.0
+2023-04-08,Smartphone,Eletrônicos,Nordeste,Loja Física,6,2800,0.0,16800,16800.0
+2023-03-05,Cadeira Gamer,Móveis,Centro-Oeste,Loja Física,7,950,0.1,6650,5985.0
+2023-06-23,Teclado,Eletrônicos,Nordeste,Marketplace,8,250,0.1,2000,1800.0
+2023-05-17,Mouse,Eletrônicos,Centro-Oeste,Marketplace,7,120,0.0,840,840.0
+2023-04-03,Livro Técnico,Livros,Sudeste,Online,5,200,0.05,1000,950.0
+2023-06-17,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,5,350,0.05,1750,1662.5
+2023-08-07,Teclado,Eletrônicos,Centro-Oeste,Online,8,250,0.05,2000,1900.0
+2023-06-30,Curso Online,Educação,Sudeste,Online,7,500,0.05,3500,3325.0
+2023-12-10,Fone Bluetooth,Eletrônicos,Norte,Marketplace,7,350,0.05,2450,2327.5
+2023-12-14,Teclado,Eletrônicos,Norte,Marketplace,1,250,0.0,250,250.0
+2023-08-13,Notebook,Eletrônicos,Sul,Marketplace,3,3500,0.0,10500,10500.0
+2023-07-07,Cadeira Gamer,Móveis,Sudeste,Marketplace,7,950,0.15,6650,5652.5
+2023-03-20,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,8,350,0.05,2800,2660.0
+2023-02-09,Curso Online,Educação,Nordeste,Loja Física,3,500,0.15,1500,1275.0
+2023-06-10,Fone Bluetooth,Eletrônicos,Sudeste,Online,5,350,0.0,1750,1750.0
+2023-04-06,Armário,Móveis,Sudeste,Loja Física,7,1800,0.15,12600,10710.0
+2023-05-14,Webcam,Eletrônicos,Norte,Loja Física,8,420,0.0,3360,3360.0
+2023-12-22,Armário,Móveis,Sul,Online,4,1800,0.0,7200,7200.0
+2023-08-20,Teclado,Eletrônicos,Nordeste,Marketplace,8,250,0.0,2000,2000.0
+2023-06-27,Webcam,Eletrônicos,Norte,Loja Física,2,420,0.15,840,714.0
+2023-06-03,Teclado,Eletrônicos,Norte,Online,3,250,0.05,750,712.5
+2023-03-04,Monitor,Eletrônicos,Centro-Oeste,Online,3,1100,0.0,3300,3300.0
+2023-07-04,Livro Técnico,Livros,Norte,Online,6,200,0.1,1200,1080.0
+2023-11-10,Mouse,Eletrônicos,Centro-Oeste,Marketplace,2,120,0.05,240,228.0
+2023-09-03,Livro Técnico,Livros,Norte,Online,7,200,0.1,1400,1260.0
+2023-03-06,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,2,950,0.1,1900,1710.0
+2023-09-22,Cadeira Gamer,Móveis,Norte,Online,3,950,0.15,2850,2422.5
+2023-03-08,Mesa Escritório,Móveis,Norte,Online,1,1400,0.0,1400,1400.0
+2023-06-05,Teclado,Eletrônicos,Sul,Loja Física,3,250,0.05,750,712.5
+2023-09-23,Smartphone,Eletrônicos,Sul,Marketplace,2,2800,0.05,5600,5320.0
+2023-10-10,Smartphone,Eletrônicos,Norte,Marketplace,3,2800,0.05,8400,7980.0
+2023-02-17,Livro Técnico,Livros,Norte,Online,3,200,0.15,600,510.0
+2023-03-29,Fone Bluetooth,Eletrônicos,Sudeste,Online,6,350,0.15,2100,1785.0
+2023-02-11,Notebook,Eletrônicos,Norte,Loja Física,5,3500,0.0,17500,17500.0
+2023-11-13,Fone Bluetooth,Eletrônicos,Norte,Loja Física,1,350,0.1,350,315.0
+2023-11-25,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,8,2800,0.0,22400,22400.0
+2023-08-21,Mouse,Eletrônicos,Centro-Oeste,Loja Física,1,120,0.0,120,120.0
+2023-09-05,Armário,Móveis,Norte,Online,4,1800,0.05,7200,6840.0
+2023-06-10,Webcam,Eletrônicos,Centro-Oeste,Online,6,420,0.05,2520,2394.0
+2023-07-09,Livro Técnico,Livros,Sul,Loja Física,2,200,0.05,400,380.0
+2023-03-04,Smartphone,Eletrônicos,Sul,Online,8,2800,0.0,22400,22400.0
+2023-01-26,Smartphone,Eletrônicos,Centro-Oeste,Online,7,2800,0.15,19600,16660.0
+2023-03-23,Cadeira Gamer,Móveis,Sul,Loja Física,6,950,0.0,5700,5700.0
+2023-09-21,Armário,Móveis,Centro-Oeste,Online,8,1800,0.05,14400,13680.0
+2023-02-16,Mesa Escritório,Móveis,Sul,Marketplace,8,1400,0.0,11200,11200.0
+2023-06-30,Notebook,Eletrônicos,Centro-Oeste,Marketplace,1,3500,0.05,3500,3325.0
+2023-12-01,Fone Bluetooth,Eletrônicos,Norte,Online,8,350,0.05,2800,2660.0
+2023-02-25,Mesa Escritório,Móveis,Nordeste,Loja Física,3,1400,0.05,4200,3990.0
+2023-07-07,Notebook,Eletrônicos,Norte,Marketplace,7,3500,0.0,24500,24500.0
+2023-04-10,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,5,950,0.0,4750,4750.0
+2023-08-19,Livro Técnico,Livros,Norte,Online,5,200,0.15,1000,850.0
+2023-03-07,Mouse,Eletrônicos,Nordeste,Marketplace,7,120,0.05,840,798.0
+2023-07-07,Teclado,Eletrônicos,Norte,Loja Física,4,250,0.15,1000,850.0
+2023-09-14,Notebook,Eletrônicos,Sul,Marketplace,1,3500,0.0,3500,3500.0
+2023-06-20,Armário,Móveis,Norte,Marketplace,8,1800,0.0,14400,14400.0
+2023-03-13,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,6,950,0.0,5700,5700.0
+2023-06-03,Curso Online,Educação,Norte,Marketplace,6,500,0.15,3000,2550.0
+2023-09-08,Webcam,Eletrônicos,Sudeste,Loja Física,5,420,0.1,2100,1890.0
+2023-06-19,Fone Bluetooth,Eletrônicos,Norte,Loja Física,2,350,0.1,700,630.0
+2023-12-19,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,1,350,0.15,350,297.5
+2023-12-02,Curso Online,Educação,Norte,Loja Física,4,500,0.0,2000,2000.0
+2023-03-29,Livro Técnico,Livros,Sul,Online,7,200,0.0,1400,1400.0
+2023-10-21,Webcam,Eletrônicos,Sudeste,Loja Física,2,420,0.0,840,840.0
+2023-06-10,Mesa Escritório,Móveis,Sul,Loja Física,3,1400,0.1,4200,3780.0
+2023-09-14,Curso Online,Educação,Sul,Marketplace,8,500,0.0,4000,4000.0
+2023-04-17,Livro Técnico,Livros,Norte,Loja Física,6,200,0.1,1200,1080.0
+2023-06-10,Teclado,Eletrônicos,Nordeste,Marketplace,8,250,0.15,2000,1700.0
+2023-07-01,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,5,350,0.15,1750,1487.5
+2023-05-07,Smartphone,Eletrônicos,Nordeste,Loja Física,5,2800,0.0,14000,14000.0
+2023-12-27,Monitor,Eletrônicos,Centro-Oeste,Loja Física,8,1100,0.05,8800,8360.0
+2023-10-14,Webcam,Eletrônicos,Sudeste,Marketplace,5,420,0.05,2100,1995.0
+2023-12-13,Livro Técnico,Livros,Nordeste,Online,7,200,0.1,1400,1260.0
+2023-05-29,Notebook,Eletrônicos,Nordeste,Loja Física,5,3500,0.0,17500,17500.0
+2023-12-02,Smartphone,Eletrônicos,Sul,Marketplace,8,2800,0.0,22400,22400.0
+2023-05-19,Livro Técnico,Livros,Sudeste,Marketplace,5,200,0.0,1000,1000.0
+2023-10-28,Monitor,Eletrônicos,Norte,Online,4,1100,0.0,4400,4400.0
+2023-11-23,Monitor,Eletrônicos,Centro-Oeste,Loja Física,1,1100,0.0,1100,1100.0
+2023-08-30,Mouse,Eletrônicos,Norte,Online,3,120,0.0,360,360.0
+2023-07-28,Fone Bluetooth,Eletrônicos,Sul,Loja Física,8,350,0.1,2800,2520.0
+2023-06-14,Smartphone,Eletrônicos,Norte,Online,1,2800,0.0,2800,2800.0
+2023-10-01,Webcam,Eletrônicos,Centro-Oeste,Online,1,420,0.0,420,420.0
+2023-01-19,Mesa Escritório,Móveis,Nordeste,Online,8,1400,0.0,11200,11200.0
+2023-01-05,Smartphone,Eletrônicos,Nordeste,Loja Física,2,2800,0.05,5600,5320.0
+2023-11-25,Livro Técnico,Livros,Norte,Loja Física,8,200,0.0,1600,1600.0
+2023-05-20,Monitor,Eletrônicos,Sul,Marketplace,2,1100,0.05,2200,2090.0
+2023-08-23,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,5,350,0.0,1750,1750.0
+2023-06-22,Smartphone,Eletrônicos,Norte,Marketplace,4,2800,0.0,11200,11200.0
+2023-07-27,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,6,1400,0.0,8400,8400.0
+2023-02-18,Teclado,Eletrônicos,Nordeste,Online,3,250,0.1,750,675.0
+2023-01-04,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,7,2800,0.0,19600,19600.0
+2023-06-18,Smartphone,Eletrônicos,Nordeste,Marketplace,1,2800,0.05,2800,2660.0
+2023-05-01,Notebook,Eletrônicos,Nordeste,Online,2,3500,0.1,7000,6300.0
+2023-07-27,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,5,350,0.0,1750,1750.0
+2023-11-11,Monitor,Eletrônicos,Centro-Oeste,Online,4,1100,0.0,4400,4400.0
+2023-08-21,Webcam,Eletrônicos,Norte,Loja Física,6,420,0.1,2520,2268.0
+2023-10-03,Fone Bluetooth,Eletrônicos,Norte,Online,4,350,0.0,1400,1400.0
+2023-09-27,Armário,Móveis,Norte,Online,6,1800,0.0,10800,10800.0
+2023-02-01,Livro Técnico,Livros,Norte,Online,4,200,0.15,800,680.0
+2023-03-26,Cadeira Gamer,Móveis,Sul,Marketplace,8,950,0.0,7600,7600.0
+2023-10-26,Armário,Móveis,Centro-Oeste,Online,2,1800,0.15,3600,3060.0
+2023-08-21,Teclado,Eletrônicos,Norte,Online,7,250,0.1,1750,1575.0
+2023-10-14,Armário,Móveis,Centro-Oeste,Loja Física,5,1800,0.0,9000,9000.0
+2023-01-02,Webcam,Eletrônicos,Sudeste,Online,4,420,0.15,1680,1428.0
+2023-08-05,Cadeira Gamer,Móveis,Sudeste,Online,2,950,0.15,1900,1615.0
+2023-08-30,Notebook,Eletrônicos,Sul,Online,5,3500,0.1,17500,15750.0
+2023-11-25,Webcam,Eletrônicos,Centro-Oeste,Loja Física,7,420,0.05,2940,2793.0
+2023-07-13,Mesa Escritório,Móveis,Sul,Marketplace,2,1400,0.15,2800,2380.0
+2023-06-28,Mouse,Eletrônicos,Centro-Oeste,Marketplace,3,120,0.15,360,306.0
+2023-03-07,Webcam,Eletrônicos,Sudeste,Loja Física,4,420,0.0,1680,1680.0
+2023-08-26,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,7,350,0.15,2450,2082.5
+2023-05-07,Armário,Móveis,Nordeste,Online,6,1800,0.0,10800,10800.0
+2023-02-27,Notebook,Eletrônicos,Sudeste,Online,7,3500,0.15,24500,20825.0
+2023-04-16,Mouse,Eletrônicos,Sudeste,Loja Física,2,120,0.15,240,204.0
+2023-11-03,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,1,350,0.0,350,350.0
+2023-08-13,Monitor,Eletrônicos,Sul,Marketplace,4,1100,0.0,4400,4400.0
+2023-05-29,Monitor,Eletrônicos,Norte,Marketplace,6,1100,0.15,6600,5610.0
+2023-06-14,Monitor,Eletrônicos,Norte,Online,5,1100,0.0,5500,5500.0
+2023-07-31,Smartphone,Eletrônicos,Norte,Marketplace,5,2800,0.0,14000,14000.0
+2023-03-31,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,7,350,0.15,2450,2082.5
+2023-06-26,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,7,350,0.15,2450,2082.5
+2023-08-02,Mesa Escritório,Móveis,Centro-Oeste,Online,3,1400,0.05,4200,3990.0
+2023-10-03,Armário,Móveis,Nordeste,Marketplace,4,1800,0.0,7200,7200.0
+2023-03-15,Armário,Móveis,Centro-Oeste,Loja Física,1,1800,0.15,1800,1530.0
+2023-10-13,Livro Técnico,Livros,Sul,Loja Física,3,200,0.1,600,540.0
+2023-04-15,Cadeira Gamer,Móveis,Nordeste,Online,2,950,0.1,1900,1710.0
+2023-10-02,Webcam,Eletrônicos,Nordeste,Loja Física,4,420,0.0,1680,1680.0
+2023-12-11,Curso Online,Educação,Sul,Marketplace,1,500,0.0,500,500.0
+2023-12-10,Livro Técnico,Livros,Sul,Loja Física,4,200,0.1,800,720.0
+2023-06-05,Notebook,Eletrônicos,Sudeste,Marketplace,4,3500,0.0,14000,14000.0
+2023-09-03,Monitor,Eletrônicos,Sul,Marketplace,4,1100,0.1,4400,3960.0
+2023-06-14,Smartphone,Eletrônicos,Norte,Marketplace,7,2800,0.1,19600,17640.0
+2023-07-03,Smartphone,Eletrônicos,Norte,Loja Física,5,2800,0.05,14000,13300.0
+2023-08-27,Mouse,Eletrônicos,Sul,Loja Física,8,120,0.05,960,912.0
+2023-06-10,Mesa Escritório,Móveis,Sul,Marketplace,1,1400,0.15,1400,1190.0
+2023-03-16,Notebook,Eletrônicos,Norte,Marketplace,5,3500,0.15,17500,14875.0
+2023-08-02,Smartphone,Eletrônicos,Nordeste,Online,3,2800,0.0,8400,8400.0
+2023-07-14,Curso Online,Educação,Norte,Marketplace,4,500,0.1,2000,1800.0
+2023-12-17,Cadeira Gamer,Móveis,Centro-Oeste,Loja Física,5,950,0.1,4750,4275.0
+2023-03-28,Webcam,Eletrônicos,Sul,Marketplace,6,420,0.0,2520,2520.0
+2023-10-07,Armário,Móveis,Sudeste,Marketplace,3,1800,0.15,5400,4590.0
+2023-01-18,Mouse,Eletrônicos,Centro-Oeste,Online,1,120,0.0,120,120.0
+2023-11-19,Monitor,Eletrônicos,Sudeste,Online,2,1100,0.0,2200,2200.0
+2023-09-16,Armário,Móveis,Norte,Marketplace,6,1800,0.0,10800,10800.0
+2023-12-08,Curso Online,Educação,Sudeste,Online,8,500,0.1,4000,3600.0
+2023-09-30,Livro Técnico,Livros,Sudeste,Marketplace,7,200,0.0,1400,1400.0
+2023-05-21,Livro Técnico,Livros,Norte,Marketplace,5,200,0.0,1000,1000.0
+2023-12-12,Mesa Escritório,Móveis,Sudeste,Marketplace,3,1400,0.0,4200,4200.0
+2023-03-18,Monitor,Eletrônicos,Norte,Loja Física,4,1100,0.15,4400,3740.0
+2023-07-01,Smartphone,Eletrônicos,Nordeste,Loja Física,7,2800,0.0,19600,19600.0
+2023-08-24,Curso Online,Educação,Nordeste,Marketplace,4,500,0.0,2000,2000.0
+2023-02-11,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,1,350,0.0,350,350.0
+2023-07-13,Livro Técnico,Livros,Sudeste,Marketplace,8,200,0.0,1600,1600.0
+2023-03-29,Mouse,Eletrônicos,Nordeste,Marketplace,8,120,0.1,960,864.0
+2023-02-18,Livro Técnico,Livros,Sul,Marketplace,1,200,0.0,200,200.0
+2023-10-18,Armário,Móveis,Sudeste,Marketplace,5,1800,0.0,9000,9000.0
+2023-05-24,Livro Técnico,Livros,Nordeste,Online,1,200,0.0,200,200.0
+2023-04-17,Curso Online,Educação,Sudeste,Loja Física,3,500,0.1,1500,1350.0
+2023-03-25,Curso Online,Educação,Centro-Oeste,Marketplace,4,500,0.15,2000,1700.0
+2023-10-04,Cadeira Gamer,Móveis,Sudeste,Marketplace,7,950,0.0,6650,6650.0
+2023-06-27,Notebook,Eletrônicos,Sul,Online,2,3500,0.1,7000,6300.0
+2023-06-24,Curso Online,Educação,Sudeste,Marketplace,7,500,0.05,3500,3325.0
+2023-05-20,Armário,Móveis,Nordeste,Marketplace,8,1800,0.0,14400,14400.0
+2023-07-12,Mesa Escritório,Móveis,Centro-Oeste,Online,3,1400,0.15,4200,3570.0
+2023-11-13,Smartphone,Eletrônicos,Sudeste,Loja Física,4,2800,0.0,11200,11200.0
+2023-03-20,Mesa Escritório,Móveis,Nordeste,Loja Física,3,1400,0.1,4200,3780.0
+2023-02-24,Mouse,Eletrônicos,Centro-Oeste,Loja Física,1,120,0.05,120,114.0
+2023-05-19,Mouse,Eletrônicos,Sul,Loja Física,3,120,0.0,360,360.0
+2023-08-18,Livro Técnico,Livros,Sudeste,Online,7,200,0.0,1400,1400.0
+2023-07-01,Livro Técnico,Livros,Norte,Loja Física,2,200,0.15,400,340.0
+2023-07-17,Notebook,Eletrônicos,Centro-Oeste,Online,5,3500,0.1,17500,15750.0
+2023-10-14,Monitor,Eletrônicos,Sul,Online,3,1100,0.1,3300,2970.0
+2023-05-18,Smartphone,Eletrônicos,Sul,Online,5,2800,0.1,14000,12600.0
+2023-03-27,Mesa Escritório,Móveis,Nordeste,Loja Física,5,1400,0.1,7000,6300.0
+2023-02-09,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,5,950,0.0,4750,4750.0
+2023-11-12,Monitor,Eletrônicos,Sul,Loja Física,8,1100,0.0,8800,8800.0
+2023-01-04,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.15,8400,7140.0
+2023-08-14,Cadeira Gamer,Móveis,Sul,Loja Física,7,950,0.15,6650,5652.5
+2023-06-14,Curso Online,Educação,Nordeste,Online,4,500,0.1,2000,1800.0
+2023-07-23,Cadeira Gamer,Móveis,Norte,Online,5,950,0.1,4750,4275.0
+2023-06-16,Mesa Escritório,Móveis,Nordeste,Online,5,1400,0.1,7000,6300.0
+2023-10-16,Monitor,Eletrônicos,Sudeste,Marketplace,3,1100,0.15,3300,2805.0
+2023-08-25,Webcam,Eletrônicos,Nordeste,Marketplace,4,420,0.1,1680,1512.0
+2023-02-05,Mesa Escritório,Móveis,Nordeste,Online,8,1400,0.0,11200,11200.0
+2023-05-10,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,3,350,0.1,1050,945.0
+2023-08-18,Curso Online,Educação,Centro-Oeste,Marketplace,8,500,0.15,4000,3400.0
+2023-09-17,Webcam,Eletrônicos,Sudeste,Loja Física,7,420,0.15,2940,2499.0
+2023-12-26,Livro Técnico,Livros,Sul,Marketplace,2,200,0.0,400,400.0
+2023-12-07,Cadeira Gamer,Móveis,Sudeste,Marketplace,3,950,0.15,2850,2422.5
+2023-11-27,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,7,350,0.05,2450,2327.5
+2023-01-06,Mouse,Eletrônicos,Norte,Marketplace,5,120,0.0,600,600.0
+2023-09-23,Livro Técnico,Livros,Nordeste,Loja Física,4,200,0.1,800,720.0
+2023-08-26,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,3,350,0.05,1050,997.5
+2023-02-23,Smartphone,Eletrônicos,Sudeste,Marketplace,7,2800,0.0,19600,19600.0
+2023-03-14,Cadeira Gamer,Móveis,Centro-Oeste,Online,5,950,0.05,4750,4512.5
+2023-09-24,Armário,Móveis,Sudeste,Loja Física,6,1800,0.1,10800,9720.0
+2023-12-23,Armário,Móveis,Nordeste,Online,6,1800,0.0,10800,10800.0
+2023-12-30,Mouse,Eletrônicos,Sudeste,Marketplace,1,120,0.05,120,114.0
+2023-03-26,Webcam,Eletrônicos,Sul,Marketplace,4,420,0.15,1680,1428.0
+2023-03-23,Cadeira Gamer,Móveis,Sul,Loja Física,7,950,0.1,6650,5985.0
+2023-11-19,Teclado,Eletrônicos,Centro-Oeste,Online,3,250,0.1,750,675.0
+2023-11-11,Monitor,Eletrônicos,Centro-Oeste,Loja Física,8,1100,0.15,8800,7480.0
+2023-01-03,Webcam,Eletrônicos,Nordeste,Marketplace,4,420,0.0,1680,1680.0
+2023-02-02,Curso Online,Educação,Sul,Loja Física,2,500,0.15,1000,850.0
+2023-06-16,Monitor,Eletrônicos,Nordeste,Marketplace,8,1100,0.0,8800,8800.0
+2023-09-08,Livro Técnico,Livros,Centro-Oeste,Marketplace,6,200,0.15,1200,1020.0
+2023-07-20,Curso Online,Educação,Nordeste,Loja Física,2,500,0.05,1000,950.0
+2023-11-13,Teclado,Eletrônicos,Norte,Online,5,250,0.15,1250,1062.5
+2023-12-11,Teclado,Eletrônicos,Sul,Loja Física,6,250,0.0,1500,1500.0
+2023-03-01,Teclado,Eletrônicos,Norte,Loja Física,6,250,0.0,1500,1500.0
+2023-08-03,Curso Online,Educação,Centro-Oeste,Loja Física,3,500,0.15,1500,1275.0
+2023-04-06,Armário,Móveis,Sul,Loja Física,3,1800,0.15,5400,4590.0
+2023-05-28,Teclado,Eletrônicos,Centro-Oeste,Marketplace,3,250,0.05,750,712.5
+2023-01-28,Cadeira Gamer,Móveis,Sul,Online,1,950,0.1,950,855.0
+2023-07-16,Livro Técnico,Livros,Centro-Oeste,Loja Física,8,200,0.1,1600,1440.0
+2023-12-30,Armário,Móveis,Sudeste,Marketplace,8,1800,0.0,14400,14400.0
+2023-01-16,Monitor,Eletrônicos,Nordeste,Online,5,1100,0.0,5500,5500.0
+2023-10-03,Smartphone,Eletrônicos,Norte,Marketplace,3,2800,0.1,8400,7560.0
+2023-09-11,Livro Técnico,Livros,Sudeste,Loja Física,2,200,0.15,400,340.0
+2023-10-06,Cadeira Gamer,Móveis,Norte,Online,1,950,0.1,950,855.0
+2023-08-06,Mouse,Eletrônicos,Sudeste,Loja Física,4,120,0.05,480,456.0
+2023-05-15,Cadeira Gamer,Móveis,Sudeste,Online,2,950,0.1,1900,1710.0
+2023-04-18,Webcam,Eletrônicos,Centro-Oeste,Online,6,420,0.15,2520,2142.0
+2023-11-12,Teclado,Eletrônicos,Sudeste,Marketplace,4,250,0.0,1000,1000.0
+2023-06-29,Livro Técnico,Livros,Norte,Online,5,200,0.15,1000,850.0
+2023-06-15,Webcam,Eletrônicos,Norte,Loja Física,5,420,0.05,2100,1995.0
+2023-09-21,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,2,350,0.0,700,700.0
+2023-05-22,Fone Bluetooth,Eletrônicos,Sul,Online,3,350,0.0,1050,1050.0
+2023-12-31,Cadeira Gamer,Móveis,Centro-Oeste,Online,4,950,0.1,3800,3420.0
+2023-10-23,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,5,350,0.1,1750,1575.0
+2023-02-08,Fone Bluetooth,Eletrônicos,Norte,Marketplace,2,350,0.1,700,630.0
+2023-05-23,Webcam,Eletrônicos,Centro-Oeste,Loja Física,6,420,0.1,2520,2268.0
+2023-10-25,Notebook,Eletrônicos,Nordeste,Online,2,3500,0.1,7000,6300.0
+2023-10-01,Mesa Escritório,Móveis,Sul,Loja Física,4,1400,0.1,5600,5040.0
+2023-05-18,Cadeira Gamer,Móveis,Norte,Marketplace,5,950,0.05,4750,4512.5
+2023-03-08,Curso Online,Educação,Sudeste,Online,8,500,0.05,4000,3800.0
+2023-02-20,Fone Bluetooth,Eletrônicos,Sudeste,Online,8,350,0.0,2800,2800.0
+2023-08-14,Armário,Móveis,Sul,Marketplace,1,1800,0.1,1800,1620.0
+2023-03-09,Fone Bluetooth,Eletrônicos,Nordeste,Online,5,350,0.0,1750,1750.0
+2023-12-02,Cadeira Gamer,Móveis,Nordeste,Marketplace,5,950,0.0,4750,4750.0
+2023-11-29,Teclado,Eletrônicos,Nordeste,Marketplace,1,250,0.1,250,225.0
+2023-12-25,Monitor,Eletrônicos,Sudeste,Online,7,1100,0.0,7700,7700.0
+2023-04-20,Armário,Móveis,Norte,Online,2,1800,0.0,3600,3600.0
+2023-09-23,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,8,350,0.0,2800,2800.0
+2023-06-25,Mouse,Eletrônicos,Centro-Oeste,Online,7,120,0.0,840,840.0
+2023-04-28,Mesa Escritório,Móveis,Sudeste,Loja Física,2,1400,0.0,2800,2800.0
+2023-07-08,Smartphone,Eletrônicos,Sul,Marketplace,3,2800,0.1,8400,7560.0
+2023-12-13,Teclado,Eletrônicos,Norte,Online,2,250,0.15,500,425.0
+2023-11-09,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,3,350,0.1,1050,945.0
+2023-04-20,Fone Bluetooth,Eletrônicos,Norte,Marketplace,3,350,0.1,1050,945.0
+2023-08-15,Monitor,Eletrônicos,Sul,Online,2,1100,0.0,2200,2200.0
+2023-10-29,Webcam,Eletrônicos,Centro-Oeste,Loja Física,7,420,0.05,2940,2793.0
+2023-03-13,Monitor,Eletrônicos,Sul,Marketplace,5,1100,0.0,5500,5500.0
+2023-11-04,Curso Online,Educação,Nordeste,Online,5,500,0.0,2500,2500.0
+2023-09-23,Curso Online,Educação,Nordeste,Marketplace,4,500,0.1,2000,1800.0
+2023-01-28,Monitor,Eletrônicos,Sudeste,Online,8,1100,0.1,8800,7920.0
+2023-09-13,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,2,350,0.15,700,595.0
+2023-06-12,Teclado,Eletrônicos,Centro-Oeste,Loja Física,7,250,0.15,1750,1487.5
+2023-10-07,Fone Bluetooth,Eletrônicos,Sudeste,Online,3,350,0.1,1050,945.0
+2023-10-28,Mouse,Eletrônicos,Sul,Online,1,120,0.05,120,114.0
+2023-01-31,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,5,1400,0.15,7000,5950.0
+2023-12-26,Mesa Escritório,Móveis,Norte,Marketplace,2,1400,0.15,2800,2380.0
+2023-03-20,Smartphone,Eletrônicos,Sudeste,Marketplace,2,2800,0.05,5600,5320.0
+2023-04-15,Teclado,Eletrônicos,Norte,Marketplace,6,250,0.1,1500,1350.0
+2023-11-29,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,2,350,0.05,700,665.0
+2023-05-03,Notebook,Eletrônicos,Centro-Oeste,Online,4,3500,0.0,14000,14000.0
+2023-08-21,Curso Online,Educação,Sul,Online,1,500,0.05,500,475.0
+2023-01-07,Webcam,Eletrônicos,Sul,Loja Física,3,420,0.0,1260,1260.0
+2023-06-27,Livro Técnico,Livros,Nordeste,Online,5,200,0.0,1000,1000.0
+2023-05-18,Webcam,Eletrônicos,Nordeste,Loja Física,2,420,0.0,840,840.0
+2023-05-20,Livro Técnico,Livros,Norte,Marketplace,2,200,0.05,400,380.0
+2023-02-09,Armário,Móveis,Nordeste,Online,8,1800,0.15,14400,12240.0
+2023-09-13,Curso Online,Educação,Sul,Loja Física,3,500,0.05,1500,1425.0
+2023-02-22,Curso Online,Educação,Norte,Online,2,500,0.0,1000,1000.0
+2023-01-23,Notebook,Eletrônicos,Centro-Oeste,Loja Física,4,3500,0.0,14000,14000.0
+2023-07-16,Teclado,Eletrônicos,Norte,Marketplace,3,250,0.0,750,750.0
+2023-12-02,Mesa Escritório,Móveis,Sul,Loja Física,4,1400,0.05,5600,5320.0
+2023-06-13,Smartphone,Eletrônicos,Nordeste,Online,2,2800,0.15,5600,4760.0
+2023-09-15,Fone Bluetooth,Eletrônicos,Sul,Marketplace,1,350,0.0,350,350.0
+2023-01-24,Mesa Escritório,Móveis,Nordeste,Loja Física,2,1400,0.1,2800,2520.0
+2023-06-17,Mouse,Eletrônicos,Nordeste,Online,8,120,0.0,960,960.0
+2023-05-30,Curso Online,Educação,Sul,Loja Física,5,500,0.15,2500,2125.0
+2023-07-08,Curso Online,Educação,Norte,Online,8,500,0.0,4000,4000.0
+2023-03-19,Notebook,Eletrônicos,Sul,Marketplace,7,3500,0.0,24500,24500.0
+2023-06-27,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,1,350,0.05,350,332.5
+2023-07-12,Webcam,Eletrônicos,Sul,Marketplace,5,420,0.0,2100,2100.0
+2023-05-02,Mesa Escritório,Móveis,Sul,Marketplace,8,1400,0.0,11200,11200.0
+2023-05-24,Mouse,Eletrônicos,Norte,Loja Física,1,120,0.0,120,120.0
+2023-12-25,Cadeira Gamer,Móveis,Norte,Online,8,950,0.0,7600,7600.0
+2023-09-16,Teclado,Eletrônicos,Norte,Marketplace,7,250,0.0,1750,1750.0
+2023-02-01,Mesa Escritório,Móveis,Nordeste,Loja Física,3,1400,0.0,4200,4200.0
+2023-06-11,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.05,8400,7980.0
+2023-04-30,Mouse,Eletrônicos,Norte,Online,4,120,0.0,480,480.0
+2023-03-21,Mouse,Eletrônicos,Centro-Oeste,Loja Física,3,120,0.1,360,324.0
+2023-07-28,Mouse,Eletrônicos,Centro-Oeste,Loja Física,6,120,0.0,720,720.0
+2023-08-26,Smartphone,Eletrônicos,Sul,Marketplace,2,2800,0.0,5600,5600.0
+2023-06-05,Webcam,Eletrônicos,Nordeste,Online,1,420,0.0,420,420.0
+2023-02-16,Webcam,Eletrônicos,Centro-Oeste,Marketplace,4,420,0.05,1680,1596.0
+2023-01-26,Fone Bluetooth,Eletrônicos,Sul,Online,5,350,0.05,1750,1662.5
+2023-07-27,Armário,Móveis,Centro-Oeste,Online,4,1800,0.0,7200,7200.0
+2023-03-13,Mouse,Eletrônicos,Sul,Online,1,120,0.0,120,120.0
+2023-04-12,Mesa Escritório,Móveis,Norte,Marketplace,6,1400,0.0,8400,8400.0
+2023-05-13,Mouse,Eletrônicos,Sul,Marketplace,1,120,0.0,120,120.0
+2023-08-16,Teclado,Eletrônicos,Sudeste,Online,2,250,0.05,500,475.0
+2023-08-25,Notebook,Eletrônicos,Centro-Oeste,Marketplace,3,3500,0.15,10500,8925.0
+2023-07-22,Armário,Móveis,Centro-Oeste,Online,1,1800,0.1,1800,1620.0
+2023-07-01,Monitor,Eletrônicos,Nordeste,Loja Física,3,1100,0.05,3300,3135.0
+2023-03-18,Notebook,Eletrônicos,Centro-Oeste,Loja Física,4,3500,0.05,14000,13300.0
+2023-10-09,Armário,Móveis,Nordeste,Loja Física,1,1800,0.0,1800,1800.0
+2023-03-12,Mesa Escritório,Móveis,Sul,Marketplace,4,1400,0.15,5600,4760.0
+2023-10-06,Notebook,Eletrônicos,Centro-Oeste,Marketplace,7,3500,0.05,24500,23275.0
+2023-09-06,Cadeira Gamer,Móveis,Nordeste,Online,6,950,0.1,5700,5130.0
+2023-01-14,Cadeira Gamer,Móveis,Nordeste,Online,4,950,0.0,3800,3800.0
+2023-08-30,Livro Técnico,Livros,Sul,Online,6,200,0.15,1200,1020.0
+2023-02-21,Monitor,Eletrônicos,Norte,Marketplace,4,1100,0.05,4400,4180.0
+2023-01-29,Monitor,Eletrônicos,Sul,Online,7,1100,0.05,7700,7315.0
+2023-05-02,Curso Online,Educação,Norte,Online,6,500,0.05,3000,2850.0
+2023-12-27,Webcam,Eletrônicos,Norte,Online,6,420,0.15,2520,2142.0
+2023-10-16,Monitor,Eletrônicos,Nordeste,Online,8,1100,0.15,8800,7480.0
+2023-09-09,Notebook,Eletrônicos,Sul,Marketplace,2,3500,0.0,7000,7000.0
+2023-04-23,Notebook,Eletrônicos,Nordeste,Marketplace,8,3500,0.0,28000,28000.0
+2023-04-14,Teclado,Eletrônicos,Nordeste,Online,6,250,0.0,1500,1500.0
+2023-01-12,Teclado,Eletrônicos,Norte,Loja Física,3,250,0.0,750,750.0
+2023-02-07,Cadeira Gamer,Móveis,Sudeste,Loja Física,7,950,0.15,6650,5652.5
+2023-06-04,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,3,950,0.0,2850,2850.0
+2023-09-07,Fone Bluetooth,Eletrônicos,Norte,Marketplace,6,350,0.0,2100,2100.0
+2023-11-11,Cadeira Gamer,Móveis,Sul,Loja Física,4,950,0.15,3800,3230.0
+2023-06-07,Webcam,Eletrônicos,Sul,Marketplace,5,420,0.0,2100,2100.0
+2023-01-01,Webcam,Eletrônicos,Sudeste,Online,7,420,0.15,2940,2499.0
+2023-11-05,Cadeira Gamer,Móveis,Sudeste,Loja Física,4,950,0.15,3800,3230.0
+2023-03-14,Cadeira Gamer,Móveis,Nordeste,Loja Física,2,950,0.0,1900,1900.0
+2023-03-27,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,2,350,0.05,700,665.0
+2023-05-16,Monitor,Eletrônicos,Nordeste,Loja Física,4,1100,0.0,4400,4400.0
+2023-02-25,Webcam,Eletrônicos,Centro-Oeste,Loja Física,1,420,0.0,420,420.0
+2023-08-03,Teclado,Eletrônicos,Centro-Oeste,Loja Física,7,250,0.1,1750,1575.0
+2023-10-07,Mesa Escritório,Móveis,Norte,Marketplace,2,1400,0.1,2800,2520.0
+2023-12-18,Monitor,Eletrônicos,Sudeste,Online,3,1100,0.1,3300,2970.0
+2023-05-31,Notebook,Eletrônicos,Sudeste,Online,6,3500,0.05,21000,19950.0
+2023-06-25,Teclado,Eletrônicos,Sudeste,Marketplace,7,250,0.0,1750,1750.0
+2023-02-17,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,8,950,0.0,7600,7600.0
+2023-03-26,Curso Online,Educação,Sudeste,Online,7,500,0.0,3500,3500.0
+2023-06-19,Monitor,Eletrônicos,Norte,Marketplace,4,1100,0.1,4400,3960.0
+2023-10-04,Smartphone,Eletrônicos,Sul,Online,5,2800,0.05,14000,13300.0
+2023-01-26,Mesa Escritório,Móveis,Sudeste,Loja Física,8,1400,0.0,11200,11200.0
+2023-01-02,Mesa Escritório,Móveis,Norte,Loja Física,2,1400,0.05,2800,2660.0
+2023-04-13,Mouse,Eletrônicos,Sul,Marketplace,1,120,0.0,120,120.0
+2023-05-30,Mouse,Eletrônicos,Nordeste,Loja Física,8,120,0.0,960,960.0
+2023-08-30,Armário,Móveis,Norte,Loja Física,5,1800,0.0,9000,9000.0
+2023-04-05,Cadeira Gamer,Móveis,Sul,Loja Física,7,950,0.05,6650,6317.5
+2023-01-23,Smartphone,Eletrônicos,Nordeste,Online,8,2800,0.1,22400,20160.0
+2023-05-18,Curso Online,Educação,Sudeste,Online,1,500,0.0,500,500.0
+2023-12-09,Cadeira Gamer,Móveis,Sul,Marketplace,7,950,0.15,6650,5652.5
+2023-02-01,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,7,1400,0.15,9800,8330.0
+2023-05-01,Armário,Móveis,Centro-Oeste,Marketplace,5,1800,0.0,9000,9000.0
+2023-01-18,Livro Técnico,Livros,Centro-Oeste,Online,3,200,0.0,600,600.0
+2023-03-27,Monitor,Eletrônicos,Sudeste,Loja Física,4,1100,0.0,4400,4400.0
+2023-02-10,Fone Bluetooth,Eletrônicos,Sul,Marketplace,7,350,0.0,2450,2450.0
+2023-05-13,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,2,950,0.0,1900,1900.0
+2023-07-23,Livro Técnico,Livros,Norte,Loja Física,6,200,0.05,1200,1140.0
+2023-01-07,Webcam,Eletrônicos,Centro-Oeste,Online,7,420,0.0,2940,2940.0
+2023-03-17,Curso Online,Educação,Norte,Online,2,500,0.0,1000,1000.0
+2023-05-27,Livro Técnico,Livros,Nordeste,Loja Física,6,200,0.1,1200,1080.0
+2023-12-02,Armário,Móveis,Sul,Loja Física,8,1800,0.0,14400,14400.0
+2023-07-26,Teclado,Eletrônicos,Centro-Oeste,Loja Física,7,250,0.0,1750,1750.0
+2023-12-20,Monitor,Eletrônicos,Nordeste,Loja Física,1,1100,0.1,1100,990.0
+2023-01-11,Cadeira Gamer,Móveis,Nordeste,Loja Física,5,950,0.05,4750,4512.5
+2023-12-23,Fone Bluetooth,Eletrônicos,Sul,Loja Física,2,350,0.0,700,700.0
+2023-08-15,Cadeira Gamer,Móveis,Norte,Marketplace,5,950,0.1,4750,4275.0
+2023-02-15,Monitor,Eletrônicos,Centro-Oeste,Marketplace,8,1100,0.0,8800,8800.0
+2023-09-06,Livro Técnico,Livros,Norte,Online,6,200,0.0,1200,1200.0
+2023-02-03,Smartphone,Eletrônicos,Norte,Marketplace,7,2800,0.0,19600,19600.0
+2023-01-15,Teclado,Eletrônicos,Sudeste,Online,4,250,0.0,1000,1000.0
+2023-01-17,Armário,Móveis,Sul,Loja Física,1,1800,0.05,1800,1710.0
+2023-07-08,Armário,Móveis,Sudeste,Online,7,1800,0.0,12600,12600.0
+2023-07-10,Armário,Móveis,Centro-Oeste,Marketplace,8,1800,0.0,14400,14400.0
+2023-10-10,Cadeira Gamer,Móveis,Nordeste,Marketplace,6,950,0.0,5700,5700.0
+2023-12-19,Mouse,Eletrônicos,Centro-Oeste,Online,5,120,0.0,600,600.0
+2023-03-25,Curso Online,Educação,Sul,Marketplace,4,500,0.0,2000,2000.0
+2023-04-16,Smartphone,Eletrônicos,Sudeste,Marketplace,7,2800,0.15,19600,16660.0
+2023-01-05,Armário,Móveis,Norte,Online,3,1800,0.0,5400,5400.0
+2023-04-25,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,5,2800,0.05,14000,13300.0
+2023-06-28,Armário,Móveis,Centro-Oeste,Loja Física,5,1800,0.0,9000,9000.0
+2023-12-13,Livro Técnico,Livros,Sudeste,Online,7,200,0.15,1400,1190.0
+2023-09-19,Fone Bluetooth,Eletrônicos,Norte,Marketplace,6,350,0.15,2100,1785.0
+2023-05-25,Smartphone,Eletrônicos,Sudeste,Loja Física,2,2800,0.1,5600,5040.0
+2023-05-22,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,6,350,0.05,2100,1995.0
+2023-12-31,Fone Bluetooth,Eletrônicos,Sul,Marketplace,5,350,0.0,1750,1750.0
+2023-05-04,Notebook,Eletrônicos,Sul,Marketplace,7,3500,0.05,24500,23275.0
+2023-01-14,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,8,350,0.05,2800,2660.0
+2023-07-27,Mesa Escritório,Móveis,Norte,Online,1,1400,0.15,1400,1190.0
+2023-06-25,Webcam,Eletrônicos,Centro-Oeste,Marketplace,4,420,0.15,1680,1428.0
+2023-07-03,Livro Técnico,Livros,Norte,Online,5,200,0.0,1000,1000.0
+2023-05-31,Mouse,Eletrônicos,Nordeste,Marketplace,8,120,0.0,960,960.0
+2023-10-14,Teclado,Eletrônicos,Sul,Loja Física,6,250,0.0,1500,1500.0
+2023-04-25,Webcam,Eletrônicos,Nordeste,Loja Física,5,420,0.1,2100,1890.0
+2023-05-14,Curso Online,Educação,Sudeste,Loja Física,5,500,0.1,2500,2250.0
+2023-01-28,Fone Bluetooth,Eletrônicos,Sul,Marketplace,2,350,0.1,700,630.0
+2023-03-03,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,7,350,0.15,2450,2082.5
+2023-01-28,Teclado,Eletrônicos,Nordeste,Loja Física,3,250,0.0,750,750.0
+2023-10-19,Armário,Móveis,Sul,Online,3,1800,0.05,5400,5130.0
+2023-09-07,Cadeira Gamer,Móveis,Sudeste,Online,3,950,0.05,2850,2707.5
+2023-08-20,Smartphone,Eletrônicos,Norte,Online,4,2800,0.0,11200,11200.0
+2023-09-08,Mouse,Eletrônicos,Centro-Oeste,Marketplace,3,120,0.15,360,306.0
+2023-08-08,Mesa Escritório,Móveis,Centro-Oeste,Online,7,1400,0.1,9800,8820.0
+2023-01-20,Livro Técnico,Livros,Sudeste,Loja Física,4,200,0.05,800,760.0
+2023-09-29,Monitor,Eletrônicos,Sul,Online,1,1100,0.0,1100,1100.0
+2023-12-22,Cadeira Gamer,Móveis,Sudeste,Loja Física,5,950,0.0,4750,4750.0
+2023-09-15,Curso Online,Educação,Sudeste,Online,5,500,0.0,2500,2500.0
+2023-06-02,Smartphone,Eletrônicos,Norte,Marketplace,8,2800,0.15,22400,19040.0
+2023-06-22,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,3,1400,0.05,4200,3990.0
+2023-04-07,Teclado,Eletrônicos,Sul,Online,7,250,0.0,1750,1750.0
+2023-03-09,Monitor,Eletrônicos,Norte,Online,1,1100,0.15,1100,935.0
+2023-03-05,Cadeira Gamer,Móveis,Nordeste,Marketplace,1,950,0.1,950,855.0
+2023-11-16,Notebook,Eletrônicos,Sudeste,Online,1,3500,0.0,3500,3500.0
+2023-12-20,Mouse,Eletrônicos,Centro-Oeste,Online,7,120,0.1,840,756.0
+2023-10-08,Smartphone,Eletrônicos,Sul,Marketplace,8,2800,0.0,22400,22400.0
+2023-12-18,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,1,350,0.05,350,332.5
+2023-02-21,Fone Bluetooth,Eletrônicos,Norte,Marketplace,5,350,0.15,1750,1487.5
+2023-03-12,Mesa Escritório,Móveis,Norte,Online,2,1400,0.15,2800,2380.0
+2023-05-25,Mouse,Eletrônicos,Sul,Marketplace,2,120,0.1,240,216.0
+2023-04-13,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,4,2800,0.05,11200,10640.0
+2023-03-24,Notebook,Eletrônicos,Centro-Oeste,Loja Física,8,3500,0.0,28000,28000.0
+2023-05-01,Notebook,Eletrônicos,Sudeste,Marketplace,1,3500,0.0,3500,3500.0
+2023-12-09,Armário,Móveis,Norte,Online,3,1800,0.0,5400,5400.0
+2023-02-21,Smartphone,Eletrônicos,Nordeste,Loja Física,4,2800,0.1,11200,10080.0
+2023-08-26,Notebook,Eletrônicos,Sudeste,Loja Física,2,3500,0.0,7000,7000.0
+2023-07-04,Fone Bluetooth,Eletrônicos,Sudeste,Online,6,350,0.1,2100,1890.0
+2023-01-24,Notebook,Eletrônicos,Nordeste,Loja Física,3,3500,0.0,10500,10500.0
+2023-08-13,Curso Online,Educação,Nordeste,Loja Física,5,500,0.0,2500,2500.0
+2023-04-04,Mouse,Eletrônicos,Centro-Oeste,Loja Física,7,120,0.1,840,756.0
+2023-07-17,Webcam,Eletrônicos,Sul,Online,8,420,0.1,3360,3024.0
+2023-03-09,Webcam,Eletrônicos,Sudeste,Loja Física,1,420,0.0,420,420.0
+2023-10-30,Armário,Móveis,Norte,Loja Física,8,1800,0.0,14400,14400.0
+2023-07-03,Curso Online,Educação,Centro-Oeste,Loja Física,1,500,0.0,500,500.0
+2023-02-27,Mesa Escritório,Móveis,Sudeste,Loja Física,8,1400,0.0,11200,11200.0
+2023-12-02,Cadeira Gamer,Móveis,Norte,Marketplace,1,950,0.15,950,807.5
+2023-10-17,Monitor,Eletrônicos,Norte,Marketplace,6,1100,0.15,6600,5610.0
+2023-12-25,Curso Online,Educação,Sul,Loja Física,2,500,0.1,1000,900.0
+2023-06-27,Fone Bluetooth,Eletrônicos,Norte,Marketplace,7,350,0.0,2450,2450.0
+2023-01-28,Notebook,Eletrônicos,Centro-Oeste,Loja Física,3,3500,0.15,10500,8925.0
+2023-03-26,Mouse,Eletrônicos,Sul,Loja Física,8,120,0.05,960,912.0
+2023-05-23,Notebook,Eletrônicos,Centro-Oeste,Loja Física,4,3500,0.15,14000,11900.0
+2023-05-01,Mouse,Eletrônicos,Norte,Loja Física,8,120,0.1,960,864.0
+2023-02-15,Armário,Móveis,Sudeste,Loja Física,8,1800,0.05,14400,13680.0
+2023-12-01,Notebook,Eletrônicos,Centro-Oeste,Online,2,3500,0.1,7000,6300.0
+2023-10-13,Livro Técnico,Livros,Norte,Marketplace,1,200,0.0,200,200.0
+2023-11-23,Smartphone,Eletrônicos,Nordeste,Loja Física,4,2800,0.1,11200,10080.0
+2023-01-28,Monitor,Eletrônicos,Norte,Marketplace,8,1100,0.05,8800,8360.0
+2023-11-04,Armário,Móveis,Sudeste,Online,6,1800,0.1,10800,9720.0
+2023-12-04,Monitor,Eletrônicos,Nordeste,Marketplace,1,1100,0.05,1100,1045.0
+2023-05-30,Livro Técnico,Livros,Sudeste,Online,6,200,0.0,1200,1200.0
+2023-09-10,Teclado,Eletrônicos,Nordeste,Marketplace,7,250,0.0,1750,1750.0
+2023-04-11,Monitor,Eletrônicos,Sul,Loja Física,2,1100,0.1,2200,1980.0
+2023-04-08,Webcam,Eletrônicos,Centro-Oeste,Online,6,420,0.0,2520,2520.0
+2023-11-21,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,2,350,0.1,700,630.0
+2023-10-29,Livro Técnico,Livros,Sudeste,Marketplace,3,200,0.1,600,540.0
+2023-01-25,Livro Técnico,Livros,Centro-Oeste,Marketplace,7,200,0.15,1400,1190.0
+2023-04-01,Webcam,Eletrônicos,Sudeste,Loja Física,3,420,0.0,1260,1260.0
+2023-12-03,Curso Online,Educação,Centro-Oeste,Loja Física,6,500,0.15,3000,2550.0
+2023-11-08,Webcam,Eletrônicos,Centro-Oeste,Loja Física,4,420,0.05,1680,1596.0
+2023-05-31,Armário,Móveis,Centro-Oeste,Marketplace,3,1800,0.0,5400,5400.0
+2023-12-25,Webcam,Eletrônicos,Nordeste,Marketplace,5,420,0.15,2100,1785.0
+2023-10-11,Fone Bluetooth,Eletrônicos,Sul,Marketplace,4,350,0.0,1400,1400.0
+2023-05-29,Fone Bluetooth,Eletrônicos,Sul,Marketplace,6,350,0.0,2100,2100.0
+2023-10-05,Webcam,Eletrônicos,Nordeste,Marketplace,6,420,0.0,2520,2520.0
+2023-09-03,Curso Online,Educação,Nordeste,Loja Física,7,500,0.15,3500,2975.0
+2023-01-07,Livro Técnico,Livros,Centro-Oeste,Online,2,200,0.0,400,400.0
+2023-01-28,Fone Bluetooth,Eletrônicos,Nordeste,Online,1,350,0.0,350,350.0
+2023-05-27,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,5,350,0.0,1750,1750.0
+2023-06-01,Monitor,Eletrônicos,Centro-Oeste,Online,1,1100,0.05,1100,1045.0
+2023-11-12,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,4,350,0.15,1400,1190.0
+2023-09-19,Webcam,Eletrônicos,Centro-Oeste,Loja Física,5,420,0.0,2100,2100.0
+2023-08-02,Fone Bluetooth,Eletrônicos,Sudeste,Online,6,350,0.15,2100,1785.0
+2023-05-09,Monitor,Eletrônicos,Nordeste,Marketplace,8,1100,0.0,8800,8800.0
+2023-10-07,Webcam,Eletrônicos,Nordeste,Loja Física,4,420,0.0,1680,1680.0
+2023-04-01,Fone Bluetooth,Eletrônicos,Sul,Marketplace,2,350,0.0,700,700.0
+2023-09-21,Mouse,Eletrônicos,Centro-Oeste,Loja Física,7,120,0.0,840,840.0
+2023-10-12,Smartphone,Eletrônicos,Norte,Loja Física,3,2800,0.0,8400,8400.0
+2023-01-03,Cadeira Gamer,Móveis,Sudeste,Online,8,950,0.0,7600,7600.0
+2023-06-15,Curso Online,Educação,Nordeste,Loja Física,1,500,0.15,500,425.0
+2023-10-21,Livro Técnico,Livros,Nordeste,Marketplace,6,200,0.0,1200,1200.0
+2023-04-23,Teclado,Eletrônicos,Sul,Loja Física,2,250,0.15,500,425.0
+2023-10-06,Livro Técnico,Livros,Nordeste,Online,7,200,0.0,1400,1400.0
+2023-04-20,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,6,350,0.05,2100,1995.0
+2023-04-22,Curso Online,Educação,Sudeste,Online,8,500,0.15,4000,3400.0
+2023-12-09,Cadeira Gamer,Móveis,Norte,Marketplace,8,950,0.0,7600,7600.0
+2023-05-05,Notebook,Eletrônicos,Sudeste,Loja Física,6,3500,0.1,21000,18900.0
+2023-05-12,Livro Técnico,Livros,Norte,Loja Física,5,200,0.0,1000,1000.0
+2023-09-21,Livro Técnico,Livros,Sudeste,Loja Física,8,200,0.1,1600,1440.0
+2023-11-30,Monitor,Eletrônicos,Sudeste,Online,6,1100,0.15,6600,5610.0
+2023-03-27,Livro Técnico,Livros,Sul,Marketplace,1,200,0.0,200,200.0
+2023-11-19,Monitor,Eletrônicos,Sul,Marketplace,7,1100,0.0,7700,7700.0
+2023-12-26,Webcam,Eletrônicos,Sul,Online,7,420,0.0,2940,2940.0
+2023-08-24,Webcam,Eletrônicos,Sudeste,Online,6,420,0.0,2520,2520.0
+2023-01-28,Teclado,Eletrônicos,Sudeste,Marketplace,5,250,0.15,1250,1062.5
+2023-04-27,Smartphone,Eletrônicos,Centro-Oeste,Marketplace,7,2800,0.1,19600,17640.0
+2023-07-27,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,6,1400,0.0,8400,8400.0
+2023-03-02,Livro Técnico,Livros,Sudeste,Marketplace,1,200,0.15,200,170.0
+2023-10-27,Notebook,Eletrônicos,Norte,Online,2,3500,0.05,7000,6650.0
+2023-05-29,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,5,350,0.15,1750,1487.5
+2023-08-13,Mesa Escritório,Móveis,Centro-Oeste,Online,7,1400,0.0,9800,9800.0
+2023-10-01,Monitor,Eletrônicos,Norte,Loja Física,3,1100,0.1,3300,2970.0
+2023-11-21,Teclado,Eletrônicos,Sudeste,Marketplace,5,250,0.05,1250,1187.5
+2023-10-12,Teclado,Eletrônicos,Sudeste,Marketplace,2,250,0.0,500,500.0
+2023-11-02,Mesa Escritório,Móveis,Sul,Marketplace,2,1400,0.05,2800,2660.0
+2023-06-26,Monitor,Eletrônicos,Sul,Online,7,1100,0.15,7700,6545.0
+2023-04-05,Monitor,Eletrônicos,Sudeste,Online,5,1100,0.0,5500,5500.0
+2023-12-10,Curso Online,Educação,Centro-Oeste,Marketplace,1,500,0.15,500,425.0
+2023-10-09,Mouse,Eletrônicos,Nordeste,Online,5,120,0.0,600,600.0
+2023-04-12,Webcam,Eletrônicos,Nordeste,Online,8,420,0.05,3360,3192.0
+2023-12-10,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,4,350,0.0,1400,1400.0
+2023-02-05,Monitor,Eletrônicos,Centro-Oeste,Loja Física,6,1100,0.1,6600,5940.0
+2023-11-12,Fone Bluetooth,Eletrônicos,Sul,Marketplace,5,350,0.15,1750,1487.5
+2023-10-18,Cadeira Gamer,Móveis,Sul,Online,6,950,0.1,5700,5130.0
+2023-06-10,Monitor,Eletrônicos,Nordeste,Loja Física,4,1100,0.1,4400,3960.0
+2023-03-10,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,6,350,0.1,2100,1890.0
+2023-07-03,Smartphone,Eletrônicos,Sudeste,Online,8,2800,0.15,22400,19040.0
+2023-11-27,Curso Online,Educação,Sul,Marketplace,2,500,0.05,1000,950.0
+2023-04-11,Smartphone,Eletrônicos,Sudeste,Marketplace,2,2800,0.0,5600,5600.0
+2023-11-20,Notebook,Eletrônicos,Sul,Online,7,3500,0.15,24500,20825.0
+2023-10-10,Smartphone,Eletrônicos,Nordeste,Loja Física,8,2800,0.0,22400,22400.0
+2023-04-25,Curso Online,Educação,Centro-Oeste,Marketplace,5,500,0.0,2500,2500.0
+2023-09-19,Mouse,Eletrônicos,Norte,Online,7,120,0.05,840,798.0
+2023-12-06,Monitor,Eletrônicos,Sul,Loja Física,3,1100,0.15,3300,2805.0
+2023-03-23,Teclado,Eletrônicos,Nordeste,Online,3,250,0.1,750,675.0
+2023-04-23,Armário,Móveis,Nordeste,Loja Física,4,1800,0.0,7200,7200.0
+2023-04-30,Notebook,Eletrônicos,Nordeste,Loja Física,4,3500,0.15,14000,11900.0
+2023-08-29,Armário,Móveis,Nordeste,Online,1,1800,0.0,1800,1800.0
+2023-12-27,Livro Técnico,Livros,Norte,Marketplace,5,200,0.05,1000,950.0
+2023-10-19,Teclado,Eletrônicos,Nordeste,Marketplace,7,250,0.1,1750,1575.0
+2023-12-01,Mouse,Eletrônicos,Sul,Marketplace,5,120,0.1,600,540.0
+2023-07-27,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,6,950,0.1,5700,5130.0
+2023-01-04,Livro Técnico,Livros,Sul,Online,3,200,0.1,600,540.0
+2023-02-09,Livro Técnico,Livros,Sul,Online,5,200,0.0,1000,1000.0
+2023-03-22,Cadeira Gamer,Móveis,Centro-Oeste,Loja Física,2,950,0.0,1900,1900.0
+2023-02-28,Armário,Móveis,Sul,Marketplace,8,1800,0.1,14400,12960.0
+2023-03-24,Fone Bluetooth,Eletrônicos,Sul,Online,7,350,0.0,2450,2450.0
+2023-03-07,Curso Online,Educação,Norte,Online,3,500,0.0,1500,1500.0
+2023-10-21,Teclado,Eletrônicos,Nordeste,Online,1,250,0.0,250,250.0
+2023-09-22,Mesa Escritório,Móveis,Sudeste,Online,1,1400,0.05,1400,1330.0
+2023-08-18,Curso Online,Educação,Sul,Online,8,500,0.1,4000,3600.0
+2023-07-30,Curso Online,Educação,Sul,Marketplace,3,500,0.15,1500,1275.0
+2023-12-04,Livro Técnico,Livros,Nordeste,Loja Física,5,200,0.0,1000,1000.0
+2023-11-02,Curso Online,Educação,Centro-Oeste,Loja Física,2,500,0.0,1000,1000.0
+2023-03-09,Mouse,Eletrônicos,Norte,Marketplace,1,120,0.0,120,120.0
+2023-12-17,Mesa Escritório,Móveis,Sudeste,Online,3,1400,0.15,4200,3570.0
+2023-09-01,Curso Online,Educação,Norte,Online,1,500,0.15,500,425.0
+2023-02-17,Armário,Móveis,Norte,Online,3,1800,0.15,5400,4590.0
+2023-12-14,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,7,350,0.15,2450,2082.5
+2023-01-23,Webcam,Eletrônicos,Centro-Oeste,Loja Física,7,420,0.0,2940,2940.0
+2023-06-29,Curso Online,Educação,Sul,Loja Física,2,500,0.1,1000,900.0
+2023-09-02,Monitor,Eletrônicos,Norte,Marketplace,2,1100,0.05,2200,2090.0
+2023-07-29,Smartphone,Eletrônicos,Sudeste,Marketplace,4,2800,0.0,11200,11200.0
+2023-09-25,Mouse,Eletrônicos,Sul,Marketplace,1,120,0.1,120,108.0
+2023-06-11,Mesa Escritório,Móveis,Sul,Loja Física,6,1400,0.0,8400,8400.0
+2023-11-30,Curso Online,Educação,Norte,Loja Física,5,500,0.05,2500,2375.0
+2023-10-17,Cadeira Gamer,Móveis,Sul,Loja Física,5,950,0.1,4750,4275.0
+2023-10-10,Livro Técnico,Livros,Nordeste,Marketplace,8,200,0.0,1600,1600.0
+2023-10-12,Armário,Móveis,Norte,Loja Física,5,1800,0.05,9000,8550.0
+2023-12-28,Mesa Escritório,Móveis,Sul,Loja Física,3,1400,0.0,4200,4200.0
+2023-12-25,Teclado,Eletrônicos,Norte,Loja Física,2,250,0.0,500,500.0
+2023-06-23,Livro Técnico,Livros,Centro-Oeste,Marketplace,1,200,0.0,200,200.0
+2023-01-03,Mouse,Eletrônicos,Norte,Loja Física,3,120,0.1,360,324.0
+2023-02-15,Mouse,Eletrônicos,Nordeste,Online,5,120,0.0,600,600.0
+2023-11-08,Notebook,Eletrônicos,Norte,Marketplace,7,3500,0.1,24500,22050.0
+2023-09-24,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,1,2800,0.0,2800,2800.0
+2023-01-06,Monitor,Eletrônicos,Sudeste,Marketplace,5,1100,0.0,5500,5500.0
+2023-09-19,Livro Técnico,Livros,Sul,Marketplace,4,200,0.15,800,680.0
+2023-01-19,Cadeira Gamer,Móveis,Sul,Online,4,950,0.0,3800,3800.0
+2023-05-22,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,6,1400,0.1,8400,7560.0
+2023-04-13,Livro Técnico,Livros,Sudeste,Marketplace,1,200,0.0,200,200.0
+2023-05-26,Webcam,Eletrônicos,Nordeste,Online,6,420,0.05,2520,2394.0
+2023-11-07,Monitor,Eletrônicos,Norte,Online,8,1100,0.1,8800,7920.0
+2023-05-14,Teclado,Eletrônicos,Sudeste,Marketplace,7,250,0.15,1750,1487.5
+2023-02-07,Livro Técnico,Livros,Sudeste,Marketplace,5,200,0.05,1000,950.0
+2023-05-12,Livro Técnico,Livros,Centro-Oeste,Marketplace,5,200,0.1,1000,900.0
+2023-09-05,Monitor,Eletrônicos,Centro-Oeste,Marketplace,6,1100,0.1,6600,5940.0
+2023-01-15,Armário,Móveis,Sudeste,Loja Física,2,1800,0.05,3600,3420.0
+2023-11-21,Monitor,Eletrônicos,Centro-Oeste,Loja Física,4,1100,0.05,4400,4180.0
+2023-09-22,Livro Técnico,Livros,Sul,Loja Física,1,200,0.05,200,190.0
+2023-02-17,Mesa Escritório,Móveis,Norte,Online,6,1400,0.0,8400,8400.0
+2023-09-01,Cadeira Gamer,Móveis,Norte,Loja Física,6,950,0.0,5700,5700.0
+2023-04-04,Webcam,Eletrônicos,Sul,Online,4,420,0.1,1680,1512.0
+2023-05-04,Smartphone,Eletrônicos,Sul,Online,4,2800,0.0,11200,11200.0
+2023-11-13,Cadeira Gamer,Móveis,Sudeste,Online,3,950,0.0,2850,2850.0
+2023-12-13,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,8,350,0.15,2800,2380.0
+2023-01-22,Armário,Móveis,Nordeste,Loja Física,6,1800,0.15,10800,9180.0
+2023-10-22,Smartphone,Eletrônicos,Norte,Loja Física,8,2800,0.0,22400,22400.0
+2023-07-23,Monitor,Eletrônicos,Norte,Loja Física,3,1100,0.0,3300,3300.0
+2023-09-02,Livro Técnico,Livros,Nordeste,Loja Física,1,200,0.15,200,170.0
+2023-12-18,Teclado,Eletrônicos,Norte,Loja Física,8,250,0.0,2000,2000.0
+2023-06-11,Webcam,Eletrônicos,Sul,Loja Física,1,420,0.0,420,420.0
+2023-10-25,Mouse,Eletrônicos,Norte,Loja Física,6,120,0.05,720,684.0
+2023-04-06,Livro Técnico,Livros,Nordeste,Loja Física,5,200,0.0,1000,1000.0
+2023-11-10,Cadeira Gamer,Móveis,Centro-Oeste,Loja Física,6,950,0.0,5700,5700.0
+2023-04-18,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.05,8400,7980.0
+2023-08-19,Teclado,Eletrônicos,Sul,Online,3,250,0.15,750,637.5
+2023-05-19,Monitor,Eletrônicos,Sul,Online,7,1100,0.1,7700,6930.0
+2023-03-18,Armário,Móveis,Centro-Oeste,Loja Física,1,1800,0.0,1800,1800.0
+2023-03-10,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,6,350,0.1,2100,1890.0
+2023-10-15,Curso Online,Educação,Sudeste,Marketplace,1,500,0.1,500,450.0
+2023-03-25,Notebook,Eletrônicos,Centro-Oeste,Marketplace,4,3500,0.05,14000,13300.0
+2023-02-19,Armário,Móveis,Nordeste,Loja Física,6,1800,0.05,10800,10260.0
+2023-10-14,Livro Técnico,Livros,Sudeste,Loja Física,5,200,0.05,1000,950.0
+2023-03-04,Cadeira Gamer,Móveis,Norte,Marketplace,4,950,0.15,3800,3230.0
+2023-11-29,Livro Técnico,Livros,Nordeste,Loja Física,3,200,0.05,600,570.0
+2023-12-11,Livro Técnico,Livros,Sudeste,Loja Física,8,200,0.1,1600,1440.0
+2023-11-11,Smartphone,Eletrônicos,Sul,Marketplace,8,2800,0.0,22400,22400.0
+2023-06-22,Mesa Escritório,Móveis,Sudeste,Online,7,1400,0.0,9800,9800.0
+2023-06-25,Monitor,Eletrônicos,Nordeste,Marketplace,6,1100,0.05,6600,6270.0
+2023-05-17,Curso Online,Educação,Centro-Oeste,Loja Física,7,500,0.05,3500,3325.0
+2023-10-28,Livro Técnico,Livros,Sul,Online,8,200,0.1,1600,1440.0
+2023-01-12,Teclado,Eletrônicos,Sudeste,Online,4,250,0.05,1000,950.0
+2023-03-27,Mesa Escritório,Móveis,Sudeste,Loja Física,2,1400,0.0,2800,2800.0
+2023-10-08,Notebook,Eletrônicos,Norte,Online,1,3500,0.1,3500,3150.0
+2023-02-23,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,3,2800,0.0,8400,8400.0
+2023-04-28,Monitor,Eletrônicos,Sul,Online,5,1100,0.1,5500,4950.0
+2023-09-27,Teclado,Eletrônicos,Nordeste,Loja Física,1,250,0.0,250,250.0
+2023-09-01,Armário,Móveis,Centro-Oeste,Online,5,1800,0.15,9000,7650.0
+2023-12-24,Livro Técnico,Livros,Norte,Loja Física,3,200,0.15,600,510.0
+2023-11-20,Webcam,Eletrônicos,Norte,Loja Física,7,420,0.15,2940,2499.0
+2023-06-27,Armário,Móveis,Centro-Oeste,Loja Física,4,1800,0.0,7200,7200.0
+2023-07-07,Mesa Escritório,Móveis,Nordeste,Online,5,1400,0.0,7000,7000.0
+2023-01-01,Livro Técnico,Livros,Nordeste,Loja Física,3,200,0.05,600,570.0
+2023-10-01,Notebook,Eletrônicos,Nordeste,Online,8,3500,0.1,28000,25200.0
+2023-08-09,Smartphone,Eletrônicos,Norte,Loja Física,4,2800,0.0,11200,11200.0
+2023-04-07,Mesa Escritório,Móveis,Sul,Online,7,1400,0.1,9800,8820.0
+2023-11-27,Mesa Escritório,Móveis,Nordeste,Online,7,1400,0.0,9800,9800.0
+2023-08-05,Fone Bluetooth,Eletrônicos,Norte,Marketplace,4,350,0.15,1400,1190.0
+2023-12-17,Smartphone,Eletrônicos,Nordeste,Loja Física,5,2800,0.15,14000,11900.0
+2023-04-07,Mouse,Eletrônicos,Nordeste,Online,3,120,0.0,360,360.0
+2023-11-23,Armário,Móveis,Norte,Loja Física,8,1800,0.05,14400,13680.0
+2023-04-07,Cadeira Gamer,Móveis,Sudeste,Marketplace,1,950,0.0,950,950.0
+2023-01-12,Teclado,Eletrônicos,Nordeste,Online,2,250,0.05,500,475.0
+2023-08-13,Webcam,Eletrônicos,Sudeste,Online,1,420,0.0,420,420.0
+2023-01-08,Armário,Móveis,Centro-Oeste,Loja Física,4,1800,0.05,7200,6840.0
+2023-09-13,Cadeira Gamer,Móveis,Nordeste,Online,8,950,0.0,7600,7600.0
+2023-03-16,Notebook,Eletrônicos,Sudeste,Marketplace,5,3500,0.1,17500,15750.0
+2023-08-29,Teclado,Eletrônicos,Centro-Oeste,Online,4,250,0.05,1000,950.0
+2023-03-04,Webcam,Eletrônicos,Centro-Oeste,Online,4,420,0.1,1680,1512.0
+2023-01-18,Monitor,Eletrônicos,Norte,Marketplace,8,1100,0.0,8800,8800.0
+2023-04-17,Armário,Móveis,Nordeste,Online,7,1800,0.05,12600,11970.0
+2023-11-19,Webcam,Eletrônicos,Norte,Online,1,420,0.15,420,357.0
+2023-05-10,Armário,Móveis,Nordeste,Online,5,1800,0.0,9000,9000.0
+2023-12-08,Monitor,Eletrônicos,Centro-Oeste,Loja Física,2,1100,0.0,2200,2200.0
+2023-01-08,Teclado,Eletrônicos,Sudeste,Loja Física,5,250,0.15,1250,1062.5
+2023-05-05,Notebook,Eletrônicos,Centro-Oeste,Marketplace,1,3500,0.15,3500,2975.0
+2023-11-02,Teclado,Eletrônicos,Sul,Online,6,250,0.0,1500,1500.0
+2023-09-13,Mouse,Eletrônicos,Sudeste,Loja Física,6,120,0.0,720,720.0
+2023-11-27,Teclado,Eletrônicos,Centro-Oeste,Online,2,250,0.0,500,500.0
+2023-06-12,Livro Técnico,Livros,Sul,Online,6,200,0.1,1200,1080.0
+2023-12-19,Mesa Escritório,Móveis,Nordeste,Online,6,1400,0.0,8400,8400.0
+2023-09-06,Webcam,Eletrônicos,Nordeste,Marketplace,8,420,0.15,3360,2856.0
+2023-12-23,Armário,Móveis,Sul,Marketplace,4,1800,0.15,7200,6120.0
+2023-06-28,Cadeira Gamer,Móveis,Norte,Marketplace,8,950,0.05,7600,7220.0
+2023-03-24,Mouse,Eletrônicos,Nordeste,Loja Física,3,120,0.1,360,324.0
+2023-10-05,Cadeira Gamer,Móveis,Norte,Loja Física,8,950,0.0,7600,7600.0
+2023-04-05,Notebook,Eletrônicos,Sul,Loja Física,6,3500,0.15,21000,17850.0
+2023-02-02,Fone Bluetooth,Eletrônicos,Norte,Marketplace,7,350,0.0,2450,2450.0
+2023-09-12,Livro Técnico,Livros,Nordeste,Loja Física,3,200,0.15,600,510.0
+2023-07-29,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,6,350,0.0,2100,2100.0
+2023-12-04,Mouse,Eletrônicos,Sul,Online,1,120,0.0,120,120.0
+2023-04-14,Mouse,Eletrônicos,Sudeste,Online,8,120,0.0,960,960.0
+2023-10-20,Fone Bluetooth,Eletrônicos,Norte,Marketplace,7,350,0.1,2450,2205.0
+2023-12-26,Curso Online,Educação,Nordeste,Online,5,500,0.0,2500,2500.0
+2023-11-07,Webcam,Eletrônicos,Sul,Marketplace,2,420,0.0,840,840.0
+2023-09-09,Mouse,Eletrônicos,Nordeste,Marketplace,8,120,0.0,960,960.0
+2023-08-01,Cadeira Gamer,Móveis,Nordeste,Marketplace,1,950,0.15,950,807.5
+2023-01-21,Webcam,Eletrônicos,Sudeste,Online,2,420,0.05,840,798.0
+2023-09-23,Mouse,Eletrônicos,Norte,Loja Física,2,120,0.0,240,240.0
+2023-04-08,Monitor,Eletrônicos,Sul,Marketplace,4,1100,0.15,4400,3740.0
+2023-10-13,Mesa Escritório,Móveis,Nordeste,Marketplace,2,1400,0.15,2800,2380.0
+2023-08-23,Webcam,Eletrônicos,Sul,Online,7,420,0.0,2940,2940.0
+2023-10-09,Mesa Escritório,Móveis,Norte,Marketplace,6,1400,0.0,8400,8400.0
+2023-08-15,Cadeira Gamer,Móveis,Nordeste,Loja Física,6,950,0.15,5700,4845.0
+2023-07-31,Fone Bluetooth,Eletrônicos,Norte,Online,7,350,0.05,2450,2327.5
+2023-10-16,Livro Técnico,Livros,Norte,Marketplace,4,200,0.1,800,720.0
+2023-05-11,Cadeira Gamer,Móveis,Centro-Oeste,Online,8,950,0.1,7600,6840.0
+2023-01-18,Smartphone,Eletrônicos,Sul,Loja Física,1,2800,0.15,2800,2380.0
+2023-01-04,Smartphone,Eletrônicos,Nordeste,Online,4,2800,0.0,11200,11200.0
+2023-12-20,Smartphone,Eletrônicos,Sudeste,Loja Física,3,2800,0.0,8400,8400.0
+2023-07-02,Teclado,Eletrônicos,Nordeste,Marketplace,3,250,0.05,750,712.5
+2023-05-08,Monitor,Eletrônicos,Sudeste,Marketplace,5,1100,0.05,5500,5225.0
+2023-07-24,Curso Online,Educação,Nordeste,Loja Física,4,500,0.0,2000,2000.0
+2023-03-30,Armário,Móveis,Nordeste,Online,2,1800,0.15,3600,3060.0
+2023-10-23,Mesa Escritório,Móveis,Nordeste,Loja Física,2,1400,0.0,2800,2800.0
+2023-08-11,Mesa Escritório,Móveis,Norte,Online,2,1400,0.0,2800,2800.0
+2023-11-21,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,7,350,0.0,2450,2450.0
+2023-01-22,Cadeira Gamer,Móveis,Norte,Marketplace,3,950,0.05,2850,2707.5
+2023-04-24,Teclado,Eletrônicos,Centro-Oeste,Marketplace,1,250,0.1,250,225.0
+2023-10-22,Livro Técnico,Livros,Centro-Oeste,Loja Física,2,200,0.0,400,400.0
+2023-07-21,Teclado,Eletrônicos,Sudeste,Loja Física,3,250,0.05,750,712.5
+2023-10-20,Webcam,Eletrônicos,Centro-Oeste,Loja Física,1,420,0.15,420,357.0
+2023-02-13,Mesa Escritório,Móveis,Sul,Loja Física,7,1400,0.0,9800,9800.0
+2023-10-14,Monitor,Eletrônicos,Norte,Online,8,1100,0.1,8800,7920.0
+2023-10-15,Curso Online,Educação,Sudeste,Loja Física,4,500,0.0,2000,2000.0
+2023-08-09,Cadeira Gamer,Móveis,Centro-Oeste,Loja Física,2,950,0.0,1900,1900.0
+2023-07-07,Cadeira Gamer,Móveis,Nordeste,Marketplace,4,950,0.05,3800,3610.0
+2023-12-02,Notebook,Eletrônicos,Nordeste,Marketplace,5,3500,0.0,17500,17500.0
+2023-08-15,Curso Online,Educação,Sudeste,Online,3,500,0.1,1500,1350.0
+2023-04-13,Fone Bluetooth,Eletrônicos,Sudeste,Online,6,350,0.0,2100,2100.0
+2023-01-28,Monitor,Eletrônicos,Sudeste,Loja Física,3,1100,0.05,3300,3135.0
+2023-12-22,Mouse,Eletrônicos,Centro-Oeste,Online,5,120,0.1,600,540.0
+2023-06-19,Monitor,Eletrônicos,Norte,Marketplace,4,1100,0.0,4400,4400.0
+2023-05-13,Livro Técnico,Livros,Sul,Marketplace,8,200,0.15,1600,1360.0
+2023-12-24,Fone Bluetooth,Eletrônicos,Norte,Marketplace,1,350,0.1,350,315.0
+2023-09-27,Notebook,Eletrônicos,Sudeste,Loja Física,5,3500,0.0,17500,17500.0
+2023-04-13,Webcam,Eletrônicos,Centro-Oeste,Marketplace,5,420,0.0,2100,2100.0
+2023-01-05,Mouse,Eletrônicos,Nordeste,Online,7,120,0.05,840,798.0
+2023-01-10,Smartphone,Eletrônicos,Centro-Oeste,Marketplace,7,2800,0.0,19600,19600.0
+2023-12-30,Mouse,Eletrônicos,Norte,Marketplace,6,120,0.1,720,648.0
+2023-02-15,Teclado,Eletrônicos,Centro-Oeste,Marketplace,4,250,0.15,1000,850.0
+2023-12-31,Notebook,Eletrônicos,Norte,Loja Física,1,3500,0.0,3500,3500.0
+2023-06-20,Armário,Móveis,Sudeste,Loja Física,7,1800,0.0,12600,12600.0
+2023-12-17,Cadeira Gamer,Móveis,Sul,Marketplace,6,950,0.05,5700,5415.0
+2023-05-22,Notebook,Eletrônicos,Sudeste,Marketplace,5,3500,0.1,17500,15750.0
+2023-05-24,Monitor,Eletrônicos,Centro-Oeste,Marketplace,3,1100,0.05,3300,3135.0
+2023-03-12,Mouse,Eletrônicos,Norte,Marketplace,7,120,0.15,840,714.0
+2023-12-18,Monitor,Eletrônicos,Norte,Online,7,1100,0.0,7700,7700.0
+2023-08-07,Smartphone,Eletrônicos,Norte,Online,6,2800,0.1,16800,15120.0
+2023-04-16,Fone Bluetooth,Eletrônicos,Norte,Marketplace,3,350,0.15,1050,892.5
+2023-04-14,Teclado,Eletrônicos,Sul,Loja Física,5,250,0.15,1250,1062.5
+2023-03-16,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,3,350,0.05,1050,997.5
+2023-09-30,Webcam,Eletrônicos,Nordeste,Online,2,420,0.0,840,840.0
+2023-01-16,Cadeira Gamer,Móveis,Nordeste,Loja Física,7,950,0.1,6650,5985.0
+2023-11-23,Webcam,Eletrônicos,Sul,Online,5,420,0.0,2100,2100.0
+2023-03-09,Teclado,Eletrônicos,Norte,Loja Física,1,250,0.15,250,212.5
+2023-11-07,Curso Online,Educação,Sul,Online,4,500,0.15,2000,1700.0
+2023-12-18,Notebook,Eletrônicos,Centro-Oeste,Online,6,3500,0.0,21000,21000.0
+2023-09-15,Curso Online,Educação,Sul,Loja Física,8,500,0.05,4000,3800.0
+2023-09-09,Armário,Móveis,Sul,Online,3,1800,0.0,5400,5400.0
+2023-01-17,Mesa Escritório,Móveis,Centro-Oeste,Online,1,1400,0.05,1400,1330.0
+2023-12-10,Monitor,Eletrônicos,Sul,Loja Física,4,1100,0.0,4400,4400.0
+2023-11-12,Armário,Móveis,Sul,Loja Física,6,1800,0.1,10800,9720.0
+2023-07-27,Notebook,Eletrônicos,Centro-Oeste,Marketplace,7,3500,0.05,24500,23275.0
+2023-10-20,Curso Online,Educação,Sudeste,Loja Física,1,500,0.15,500,425.0
+2023-08-22,Notebook,Eletrônicos,Norte,Loja Física,4,3500,0.15,14000,11900.0
+2023-01-21,Livro Técnico,Livros,Sudeste,Online,7,200,0.15,1400,1190.0
+2023-05-30,Armário,Móveis,Nordeste,Loja Física,7,1800,0.05,12600,11970.0
+2023-03-27,Mesa Escritório,Móveis,Sudeste,Marketplace,5,1400,0.15,7000,5950.0
+2023-09-22,Teclado,Eletrônicos,Sudeste,Marketplace,8,250,0.1,2000,1800.0
+2023-09-14,Mouse,Eletrônicos,Norte,Online,3,120,0.15,360,306.0
+2023-07-21,Mesa Escritório,Móveis,Sudeste,Online,6,1400,0.1,8400,7560.0
+2023-08-21,Curso Online,Educação,Sudeste,Loja Física,4,500,0.1,2000,1800.0
+2023-06-15,Webcam,Eletrônicos,Sudeste,Online,3,420,0.0,1260,1260.0
+2023-12-28,Armário,Móveis,Norte,Marketplace,6,1800,0.0,10800,10800.0
+2023-07-16,Webcam,Eletrônicos,Norte,Loja Física,3,420,0.1,1260,1134.0
+2023-01-23,Teclado,Eletrônicos,Sul,Online,6,250,0.15,1500,1275.0
+2023-03-16,Teclado,Eletrônicos,Nordeste,Loja Física,1,250,0.1,250,225.0
+2023-08-17,Smartphone,Eletrônicos,Sul,Online,3,2800,0.0,8400,8400.0
+2023-01-02,Curso Online,Educação,Centro-Oeste,Loja Física,5,500,0.0,2500,2500.0
+2023-09-13,Livro Técnico,Livros,Centro-Oeste,Online,1,200,0.15,200,170.0
+2023-04-22,Curso Online,Educação,Centro-Oeste,Loja Física,8,500,0.1,4000,3600.0
+2023-02-10,Curso Online,Educação,Norte,Loja Física,1,500,0.0,500,500.0
+2023-11-14,Fone Bluetooth,Eletrônicos,Sul,Online,4,350,0.0,1400,1400.0
+2023-01-29,Fone Bluetooth,Eletrônicos,Sul,Online,6,350,0.0,2100,2100.0
+2023-12-08,Curso Online,Educação,Sudeste,Online,5,500,0.05,2500,2375.0
+2023-02-25,Mesa Escritório,Móveis,Nordeste,Marketplace,3,1400,0.0,4200,4200.0
+2023-12-05,Webcam,Eletrônicos,Norte,Loja Física,3,420,0.1,1260,1134.0
+2023-01-19,Mouse,Eletrônicos,Nordeste,Loja Física,5,120,0.05,600,570.0
+2023-02-04,Mesa Escritório,Móveis,Centro-Oeste,Online,2,1400,0.05,2800,2660.0
+2023-03-04,Webcam,Eletrônicos,Norte,Loja Física,5,420,0.05,2100,1995.0
+2023-09-26,Monitor,Eletrônicos,Sudeste,Online,4,1100,0.15,4400,3740.0
+2023-10-20,Webcam,Eletrônicos,Norte,Marketplace,2,420,0.1,840,756.0
+2023-05-28,Mesa Escritório,Móveis,Norte,Marketplace,6,1400,0.05,8400,7980.0
+2023-11-16,Cadeira Gamer,Móveis,Norte,Loja Física,3,950,0.15,2850,2422.5
+2023-09-24,Webcam,Eletrônicos,Sul,Marketplace,8,420,0.1,3360,3024.0
+2023-04-30,Webcam,Eletrônicos,Sudeste,Online,5,420,0.0,2100,2100.0
+2023-01-13,Armário,Móveis,Norte,Loja Física,2,1800,0.0,3600,3600.0
+2023-07-31,Notebook,Eletrônicos,Norte,Marketplace,6,3500,0.05,21000,19950.0
+2023-04-19,Notebook,Eletrônicos,Nordeste,Online,4,3500,0.05,14000,13300.0
+2023-06-07,Smartphone,Eletrônicos,Sudeste,Marketplace,6,2800,0.0,16800,16800.0
+2023-06-20,Cadeira Gamer,Móveis,Norte,Online,7,950,0.15,6650,5652.5
+2023-03-31,Monitor,Eletrônicos,Centro-Oeste,Loja Física,6,1100,0.05,6600,6270.0
+2023-01-19,Fone Bluetooth,Eletrônicos,Sul,Marketplace,3,350,0.1,1050,945.0
+2023-08-24,Livro Técnico,Livros,Centro-Oeste,Marketplace,6,200,0.1,1200,1080.0
+2023-01-29,Livro Técnico,Livros,Nordeste,Marketplace,5,200,0.15,1000,850.0
+2023-10-02,Notebook,Eletrônicos,Nordeste,Loja Física,4,3500,0.15,14000,11900.0
+2023-02-03,Teclado,Eletrônicos,Nordeste,Loja Física,5,250,0.0,1250,1250.0
+2023-11-17,Livro Técnico,Livros,Norte,Loja Física,3,200,0.15,600,510.0
+2023-04-06,Curso Online,Educação,Nordeste,Marketplace,2,500,0.05,1000,950.0
+2023-01-17,Smartphone,Eletrônicos,Centro-Oeste,Online,7,2800,0.0,19600,19600.0
+2023-07-10,Armário,Móveis,Norte,Loja Física,5,1800,0.0,9000,9000.0
+2023-03-31,Mouse,Eletrônicos,Sul,Online,6,120,0.0,720,720.0
+2023-08-16,Livro Técnico,Livros,Norte,Online,1,200,0.1,200,180.0
+2023-04-08,Cadeira Gamer,Móveis,Nordeste,Loja Física,8,950,0.15,7600,6460.0
+2023-03-15,Mouse,Eletrônicos,Sudeste,Loja Física,3,120,0.0,360,360.0
+2023-07-18,Webcam,Eletrônicos,Nordeste,Online,2,420,0.0,840,840.0
+2023-12-18,Curso Online,Educação,Centro-Oeste,Online,2,500,0.05,1000,950.0
+2023-02-22,Livro Técnico,Livros,Norte,Loja Física,5,200,0.0,1000,1000.0
+2023-11-24,Monitor,Eletrônicos,Sul,Loja Física,6,1100,0.0,6600,6600.0
+2023-05-22,Livro Técnico,Livros,Sudeste,Loja Física,6,200,0.1,1200,1080.0
+2023-03-18,Teclado,Eletrônicos,Sudeste,Marketplace,5,250,0.0,1250,1250.0
+2023-10-14,Livro Técnico,Livros,Norte,Loja Física,2,200,0.0,400,400.0
+2023-10-09,Cadeira Gamer,Móveis,Nordeste,Marketplace,5,950,0.0,4750,4750.0
+2023-05-06,Teclado,Eletrônicos,Norte,Loja Física,2,250,0.05,500,475.0
+2023-10-04,Armário,Móveis,Sudeste,Loja Física,1,1800,0.0,1800,1800.0
+2023-12-12,Notebook,Eletrônicos,Sudeste,Online,2,3500,0.1,7000,6300.0
+2023-08-07,Mesa Escritório,Móveis,Norte,Marketplace,3,1400,0.15,4200,3570.0
+2023-12-20,Webcam,Eletrônicos,Nordeste,Loja Física,8,420,0.15,3360,2856.0
+2023-06-20,Monitor,Eletrônicos,Norte,Online,2,1100,0.1,2200,1980.0
+2023-02-17,Webcam,Eletrônicos,Centro-Oeste,Loja Física,8,420,0.0,3360,3360.0
+2023-12-17,Fone Bluetooth,Eletrônicos,Sul,Online,8,350,0.1,2800,2520.0
+2023-03-15,Curso Online,Educação,Centro-Oeste,Online,5,500,0.05,2500,2375.0
+2023-12-25,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,6,350,0.05,2100,1995.0
+2023-01-16,Mouse,Eletrônicos,Nordeste,Loja Física,8,120,0.0,960,960.0
+2023-08-25,Teclado,Eletrônicos,Norte,Marketplace,5,250,0.05,1250,1187.5
+2023-03-07,Livro Técnico,Livros,Sudeste,Loja Física,2,200,0.1,400,360.0
+2023-10-12,Fone Bluetooth,Eletrônicos,Norte,Loja Física,2,350,0.05,700,665.0
+2023-07-25,Curso Online,Educação,Norte,Online,7,500,0.0,3500,3500.0
+2023-10-08,Teclado,Eletrônicos,Sudeste,Loja Física,8,250,0.1,2000,1800.0
+2023-04-17,Webcam,Eletrônicos,Norte,Loja Física,7,420,0.1,2940,2646.0
+2023-10-06,Webcam,Eletrônicos,Sudeste,Marketplace,4,420,0.0,1680,1680.0
+2023-12-31,Curso Online,Educação,Norte,Marketplace,8,500,0.0,4000,4000.0
+2023-08-26,Cadeira Gamer,Móveis,Sul,Loja Física,2,950,0.1,1900,1710.0
+2023-07-27,Mouse,Eletrônicos,Centro-Oeste,Loja Física,2,120,0.15,240,204.0
+2023-09-11,Fone Bluetooth,Eletrônicos,Sul,Online,1,350,0.0,350,350.0
+2023-10-25,Fone Bluetooth,Eletrônicos,Sul,Loja Física,1,350,0.0,350,350.0
+2023-09-30,Smartphone,Eletrônicos,Norte,Loja Física,7,2800,0.15,19600,16660.0
+2023-04-11,Monitor,Eletrônicos,Norte,Marketplace,6,1100,0.05,6600,6270.0
+2023-06-05,Mesa Escritório,Móveis,Norte,Online,6,1400,0.0,8400,8400.0
+2023-11-10,Livro Técnico,Livros,Nordeste,Online,7,200,0.0,1400,1400.0
+2023-07-09,Livro Técnico,Livros,Norte,Loja Física,1,200,0.0,200,200.0
+2023-02-26,Smartphone,Eletrônicos,Centro-Oeste,Marketplace,1,2800,0.0,2800,2800.0
+2023-10-30,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.1,8400,7560.0
+2023-08-11,Livro Técnico,Livros,Centro-Oeste,Online,4,200,0.0,800,800.0
+2023-04-07,Livro Técnico,Livros,Centro-Oeste,Online,7,200,0.05,1400,1330.0
+2023-05-28,Fone Bluetooth,Eletrônicos,Sudeste,Online,3,350,0.0,1050,1050.0
+2023-11-28,Notebook,Eletrônicos,Centro-Oeste,Online,3,3500,0.1,10500,9450.0
+2023-02-13,Teclado,Eletrônicos,Norte,Loja Física,7,250,0.1,1750,1575.0
+2023-11-16,Teclado,Eletrônicos,Centro-Oeste,Marketplace,8,250,0.15,2000,1700.0
+2023-08-19,Mesa Escritório,Móveis,Sul,Loja Física,6,1400,0.0,8400,8400.0
+2023-11-06,Notebook,Eletrônicos,Norte,Loja Física,8,3500,0.0,28000,28000.0
+2023-07-30,Livro Técnico,Livros,Sudeste,Marketplace,6,200,0.0,1200,1200.0
+2023-09-05,Webcam,Eletrônicos,Norte,Loja Física,6,420,0.0,2520,2520.0
+2023-12-20,Mouse,Eletrônicos,Nordeste,Loja Física,3,120,0.15,360,306.0
+2023-09-22,Mouse,Eletrônicos,Centro-Oeste,Marketplace,2,120,0.0,240,240.0
+2023-12-06,Fone Bluetooth,Eletrônicos,Norte,Loja Física,2,350,0.15,700,595.0
+2023-11-10,Notebook,Eletrônicos,Sudeste,Loja Física,6,3500,0.15,21000,17850.0
+2023-08-21,Livro Técnico,Livros,Nordeste,Loja Física,8,200,0.15,1600,1360.0
+2023-06-30,Smartphone,Eletrônicos,Sudeste,Marketplace,5,2800,0.0,14000,14000.0
+2023-11-02,Webcam,Eletrônicos,Nordeste,Online,5,420,0.15,2100,1785.0
+2023-11-19,Armário,Móveis,Sudeste,Marketplace,3,1800,0.15,5400,4590.0
+2023-05-30,Webcam,Eletrônicos,Centro-Oeste,Online,1,420,0.05,420,399.0
+2023-03-06,Livro Técnico,Livros,Nordeste,Online,2,200,0.05,400,380.0
+2023-11-12,Smartphone,Eletrônicos,Sudeste,Marketplace,5,2800,0.05,14000,13300.0
+2023-02-27,Curso Online,Educação,Sul,Marketplace,3,500,0.15,1500,1275.0
+2023-08-17,Cadeira Gamer,Móveis,Sul,Loja Física,3,950,0.05,2850,2707.5
+2023-04-03,Livro Técnico,Livros,Sudeste,Online,1,200,0.05,200,190.0
+2023-11-01,Teclado,Eletrônicos,Centro-Oeste,Online,8,250,0.1,2000,1800.0
+2023-12-05,Armário,Móveis,Norte,Marketplace,3,1800,0.0,5400,5400.0
+2023-06-26,Notebook,Eletrônicos,Sudeste,Online,5,3500,0.0,17500,17500.0
+2023-08-26,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,8,1400,0.05,11200,10640.0
+2023-09-30,Monitor,Eletrônicos,Centro-Oeste,Loja Física,7,1100,0.1,7700,6930.0
+2023-03-16,Livro Técnico,Livros,Nordeste,Loja Física,7,200,0.0,1400,1400.0
+2023-07-15,Fone Bluetooth,Eletrônicos,Sudeste,Online,6,350,0.15,2100,1785.0
+2023-09-30,Fone Bluetooth,Eletrônicos,Norte,Marketplace,6,350,0.1,2100,1890.0
+2023-05-20,Cadeira Gamer,Móveis,Sudeste,Loja Física,5,950,0.05,4750,4512.5
+2023-12-02,Curso Online,Educação,Sul,Marketplace,7,500,0.1,3500,3150.0
+2023-12-11,Curso Online,Educação,Nordeste,Marketplace,4,500,0.15,2000,1700.0
+2023-12-20,Teclado,Eletrônicos,Sudeste,Marketplace,6,250,0.15,1500,1275.0
+2023-01-05,Mouse,Eletrônicos,Sudeste,Marketplace,1,120,0.1,120,108.0
+2023-02-23,Fone Bluetooth,Eletrônicos,Sul,Marketplace,8,350,0.05,2800,2660.0
+2023-05-26,Smartphone,Eletrônicos,Sudeste,Marketplace,4,2800,0.0,11200,11200.0
+2023-02-17,Notebook,Eletrônicos,Sudeste,Marketplace,4,3500,0.15,14000,11900.0
+2023-03-03,Mouse,Eletrônicos,Norte,Online,3,120,0.1,360,324.0
+2023-02-26,Webcam,Eletrônicos,Nordeste,Loja Física,3,420,0.05,1260,1197.0
+2023-12-05,Mouse,Eletrônicos,Centro-Oeste,Marketplace,8,120,0.05,960,912.0
+2023-12-08,Cadeira Gamer,Móveis,Sudeste,Loja Física,5,950,0.0,4750,4750.0
+2023-02-01,Mesa Escritório,Móveis,Sudeste,Loja Física,7,1400,0.05,9800,9310.0
+2023-05-16,Teclado,Eletrônicos,Centro-Oeste,Online,8,250,0.0,2000,2000.0
+2023-11-09,Mesa Escritório,Móveis,Sudeste,Online,3,1400,0.1,4200,3780.0
+2023-10-04,Mesa Escritório,Móveis,Sudeste,Loja Física,4,1400,0.15,5600,4760.0
+2023-05-13,Mouse,Eletrônicos,Sudeste,Marketplace,1,120,0.0,120,120.0
+2023-05-09,Armário,Móveis,Sul,Marketplace,1,1800,0.1,1800,1620.0
+2023-11-24,Notebook,Eletrônicos,Nordeste,Online,1,3500,0.1,3500,3150.0
+2023-12-25,Cadeira Gamer,Móveis,Sudeste,Marketplace,7,950,0.15,6650,5652.5
+2023-12-29,Armário,Móveis,Centro-Oeste,Marketplace,8,1800,0.1,14400,12960.0
+2023-02-05,Livro Técnico,Livros,Centro-Oeste,Marketplace,4,200,0.0,800,800.0
+2023-09-04,Mouse,Eletrônicos,Nordeste,Loja Física,6,120,0.05,720,684.0
+2023-01-29,Fone Bluetooth,Eletrônicos,Norte,Loja Física,2,350,0.05,700,665.0
+2023-02-11,Armário,Móveis,Sul,Marketplace,5,1800,0.0,9000,9000.0
+2023-01-21,Mesa Escritório,Móveis,Centro-Oeste,Online,4,1400,0.05,5600,5320.0
+2023-11-19,Webcam,Eletrônicos,Sudeste,Marketplace,6,420,0.1,2520,2268.0
+2023-08-13,Webcam,Eletrônicos,Sudeste,Online,4,420,0.0,1680,1680.0
+2023-01-13,Webcam,Eletrônicos,Centro-Oeste,Online,4,420,0.1,1680,1512.0
+2023-10-04,Fone Bluetooth,Eletrônicos,Norte,Loja Física,5,350,0.1,1750,1575.0
+2023-01-09,Notebook,Eletrônicos,Nordeste,Marketplace,6,3500,0.0,21000,21000.0
+2023-01-22,Mesa Escritório,Móveis,Norte,Loja Física,2,1400,0.0,2800,2800.0
+2023-12-14,Livro Técnico,Livros,Sul,Online,3,200,0.15,600,510.0
+2023-01-19,Webcam,Eletrônicos,Sudeste,Loja Física,3,420,0.1,1260,1134.0
+2023-11-13,Notebook,Eletrônicos,Sudeste,Online,4,3500,0.0,14000,14000.0
+2023-11-20,Notebook,Eletrônicos,Centro-Oeste,Marketplace,5,3500,0.0,17500,17500.0
+2023-03-29,Curso Online,Educação,Sudeste,Loja Física,2,500,0.0,1000,1000.0
+2023-11-01,Curso Online,Educação,Sul,Loja Física,4,500,0.0,2000,2000.0
+2023-06-22,Webcam,Eletrônicos,Sudeste,Marketplace,7,420,0.05,2940,2793.0
+2023-10-22,Livro Técnico,Livros,Sul,Online,3,200,0.05,600,570.0
+2023-10-31,Teclado,Eletrônicos,Sudeste,Loja Física,6,250,0.0,1500,1500.0
+2023-03-14,Mesa Escritório,Móveis,Norte,Online,3,1400,0.05,4200,3990.0
+2023-08-13,Monitor,Eletrônicos,Sudeste,Marketplace,1,1100,0.0,1100,1100.0
+2023-11-10,Mesa Escritório,Móveis,Centro-Oeste,Online,3,1400,0.0,4200,4200.0
+2023-01-04,Notebook,Eletrônicos,Norte,Loja Física,3,3500,0.0,10500,10500.0
+2023-08-02,Webcam,Eletrônicos,Sul,Online,8,420,0.0,3360,3360.0
+2023-11-24,Smartphone,Eletrônicos,Sul,Online,8,2800,0.1,22400,20160.0
+2023-11-09,Webcam,Eletrônicos,Sul,Marketplace,1,420,0.15,420,357.0
+2023-09-13,Curso Online,Educação,Nordeste,Loja Física,2,500,0.05,1000,950.0
+2023-01-03,Livro Técnico,Livros,Sudeste,Marketplace,4,200,0.0,800,800.0
+2023-02-18,Curso Online,Educação,Norte,Online,6,500,0.15,3000,2550.0
+2023-08-26,Fone Bluetooth,Eletrônicos,Sudeste,Online,4,350,0.05,1400,1330.0
+2023-02-27,Teclado,Eletrônicos,Sul,Online,8,250,0.1,2000,1800.0
+2023-12-10,Notebook,Eletrônicos,Nordeste,Online,1,3500,0.05,3500,3325.0
+2023-08-11,Smartphone,Eletrônicos,Centro-Oeste,Online,6,2800,0.15,16800,14280.0
+2023-02-23,Webcam,Eletrônicos,Sul,Online,1,420,0.15,420,357.0
+2023-01-15,Armário,Móveis,Sul,Marketplace,2,1800,0.0,3600,3600.0
+2023-08-16,Curso Online,Educação,Sul,Marketplace,6,500,0.1,3000,2700.0
+2023-12-13,Cadeira Gamer,Móveis,Nordeste,Online,4,950,0.0,3800,3800.0
+2023-02-20,Monitor,Eletrônicos,Centro-Oeste,Online,7,1100,0.0,7700,7700.0
+2023-02-07,Armário,Móveis,Centro-Oeste,Online,8,1800,0.0,14400,14400.0
+2023-04-21,Curso Online,Educação,Centro-Oeste,Loja Física,8,500,0.0,4000,4000.0
+2023-03-11,Armário,Móveis,Nordeste,Online,4,1800,0.05,7200,6840.0
+2023-06-21,Teclado,Eletrônicos,Sudeste,Loja Física,1,250,0.15,250,212.5
+2023-03-11,Mouse,Eletrônicos,Centro-Oeste,Online,8,120,0.1,960,864.0
+2023-06-25,Monitor,Eletrônicos,Sul,Marketplace,5,1100,0.15,5500,4675.0
+2023-11-10,Teclado,Eletrônicos,Centro-Oeste,Marketplace,4,250,0.0,1000,1000.0
+2023-09-08,Monitor,Eletrônicos,Nordeste,Online,8,1100,0.1,8800,7920.0
+2023-08-08,Webcam,Eletrônicos,Nordeste,Loja Física,4,420,0.0,1680,1680.0
+2023-10-24,Monitor,Eletrônicos,Sudeste,Loja Física,3,1100,0.15,3300,2805.0
+2023-01-23,Notebook,Eletrônicos,Sudeste,Loja Física,8,3500,0.15,28000,23800.0
+2023-09-29,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,8,1400,0.0,11200,11200.0
+2023-05-04,Mouse,Eletrônicos,Sul,Online,1,120,0.1,120,108.0
+2023-07-03,Smartphone,Eletrônicos,Sudeste,Loja Física,4,2800,0.0,11200,11200.0
+2023-12-09,Smartphone,Eletrônicos,Norte,Marketplace,3,2800,0.1,8400,7560.0
+2023-10-26,Notebook,Eletrônicos,Sul,Marketplace,8,3500,0.1,28000,25200.0
+2023-07-27,Teclado,Eletrônicos,Sudeste,Marketplace,6,250,0.1,1500,1350.0
+2023-02-06,Mesa Escritório,Móveis,Sudeste,Loja Física,6,1400,0.15,8400,7140.0
+2023-08-07,Smartphone,Eletrônicos,Norte,Loja Física,4,2800,0.0,11200,11200.0
+2023-01-29,Livro Técnico,Livros,Sudeste,Loja Física,6,200,0.0,1200,1200.0
+2023-07-07,Armário,Móveis,Nordeste,Online,1,1800,0.05,1800,1710.0
+2023-11-28,Livro Técnico,Livros,Sul,Online,2,200,0.15,400,340.0
+2023-06-21,Monitor,Eletrônicos,Norte,Marketplace,2,1100,0.1,2200,1980.0
+2023-04-18,Webcam,Eletrônicos,Nordeste,Loja Física,4,420,0.05,1680,1596.0
+2023-09-15,Fone Bluetooth,Eletrônicos,Sudeste,Online,7,350,0.05,2450,2327.5
+2023-07-10,Cadeira Gamer,Móveis,Norte,Marketplace,8,950,0.1,7600,6840.0
+2023-03-04,Armário,Móveis,Norte,Loja Física,5,1800,0.1,9000,8100.0
+2023-12-11,Webcam,Eletrônicos,Centro-Oeste,Online,2,420,0.0,840,840.0
+2023-02-11,Mesa Escritório,Móveis,Sudeste,Online,3,1400,0.05,4200,3990.0
+2023-03-26,Smartphone,Eletrônicos,Centro-Oeste,Online,2,2800,0.0,5600,5600.0
+2023-04-15,Livro Técnico,Livros,Centro-Oeste,Marketplace,1,200,0.05,200,190.0
+2023-10-05,Teclado,Eletrônicos,Centro-Oeste,Loja Física,8,250,0.05,2000,1900.0
+2023-11-27,Notebook,Eletrônicos,Sudeste,Online,5,3500,0.0,17500,17500.0
+2023-04-29,Livro Técnico,Livros,Norte,Loja Física,6,200,0.1,1200,1080.0
+2023-12-02,Fone Bluetooth,Eletrônicos,Norte,Marketplace,6,350,0.1,2100,1890.0
+2023-12-23,Livro Técnico,Livros,Nordeste,Marketplace,8,200,0.1,1600,1440.0
+2023-03-09,Smartphone,Eletrônicos,Sul,Loja Física,3,2800,0.05,8400,7980.0
+2023-07-10,Smartphone,Eletrônicos,Nordeste,Loja Física,1,2800,0.0,2800,2800.0
+2023-08-22,Teclado,Eletrônicos,Nordeste,Online,3,250,0.15,750,637.5
+2023-03-31,Webcam,Eletrônicos,Sul,Online,3,420,0.0,1260,1260.0
+2023-01-22,Cadeira Gamer,Móveis,Nordeste,Loja Física,3,950,0.1,2850,2565.0
+2023-04-05,Monitor,Eletrônicos,Nordeste,Online,1,1100,0.05,1100,1045.0
+2023-07-10,Armário,Móveis,Nordeste,Online,3,1800,0.15,5400,4590.0
+2023-01-13,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,8,1400,0.0,11200,11200.0
+2023-03-21,Notebook,Eletrônicos,Centro-Oeste,Loja Física,6,3500,0.05,21000,19950.0
+2023-10-21,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,3,350,0.15,1050,892.5
+2023-12-19,Mouse,Eletrônicos,Sul,Marketplace,8,120,0.0,960,960.0
+2023-10-10,Mouse,Eletrônicos,Centro-Oeste,Marketplace,5,120,0.0,600,600.0
+2023-04-23,Armário,Móveis,Nordeste,Online,6,1800,0.0,10800,10800.0
+2023-11-08,Fone Bluetooth,Eletrônicos,Norte,Online,4,350,0.15,1400,1190.0
+2023-05-23,Monitor,Eletrônicos,Norte,Loja Física,1,1100,0.0,1100,1100.0
+2023-12-13,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,2,350,0.15,700,595.0
+2023-09-09,Cadeira Gamer,Móveis,Centro-Oeste,Online,1,950,0.05,950,902.5
+2023-08-07,Cadeira Gamer,Móveis,Sudeste,Loja Física,7,950,0.05,6650,6317.5
+2023-06-26,Cadeira Gamer,Móveis,Norte,Online,5,950,0.1,4750,4275.0
+2023-04-21,Webcam,Eletrônicos,Centro-Oeste,Loja Física,8,420,0.1,3360,3024.0
+2023-03-25,Webcam,Eletrônicos,Sul,Marketplace,7,420,0.1,2940,2646.0
+2023-11-03,Mouse,Eletrônicos,Nordeste,Loja Física,3,120,0.0,360,360.0
+2023-09-26,Cadeira Gamer,Móveis,Centro-Oeste,Online,2,950,0.15,1900,1615.0
+2023-01-04,Mesa Escritório,Móveis,Sul,Marketplace,5,1400,0.1,7000,6300.0
+2023-08-25,Webcam,Eletrônicos,Sul,Loja Física,3,420,0.0,1260,1260.0
+2023-05-29,Livro Técnico,Livros,Nordeste,Marketplace,8,200,0.0,1600,1600.0
+2023-06-05,Armário,Móveis,Sudeste,Online,8,1800,0.0,14400,14400.0
+2023-03-20,Smartphone,Eletrônicos,Sudeste,Marketplace,5,2800,0.1,14000,12600.0
+2023-12-07,Smartphone,Eletrônicos,Centro-Oeste,Marketplace,7,2800,0.0,19600,19600.0
+2023-11-27,Monitor,Eletrônicos,Nordeste,Loja Física,1,1100,0.0,1100,1100.0
+2023-02-04,Curso Online,Educação,Centro-Oeste,Marketplace,6,500,0.15,3000,2550.0
+2023-08-12,Smartphone,Eletrônicos,Nordeste,Marketplace,8,2800,0.0,22400,22400.0
+2023-10-22,Notebook,Eletrônicos,Norte,Online,5,3500,0.0,17500,17500.0
+2023-03-16,Cadeira Gamer,Móveis,Nordeste,Online,8,950,0.0,7600,7600.0
+2023-01-28,Smartphone,Eletrônicos,Nordeste,Online,6,2800,0.1,16800,15120.0
+2023-05-29,Smartphone,Eletrônicos,Sul,Marketplace,2,2800,0.15,5600,4760.0
+2023-04-04,Mouse,Eletrônicos,Nordeste,Loja Física,3,120,0.15,360,306.0
+2023-12-17,Smartphone,Eletrônicos,Sudeste,Marketplace,5,2800,0.05,14000,13300.0
+2023-10-24,Cadeira Gamer,Móveis,Sul,Marketplace,3,950,0.0,2850,2850.0
+2023-05-25,Cadeira Gamer,Móveis,Nordeste,Online,8,950,0.1,7600,6840.0
+2023-02-22,Monitor,Eletrônicos,Sul,Online,3,1100,0.15,3300,2805.0
+2023-10-14,Curso Online,Educação,Centro-Oeste,Online,2,500,0.1,1000,900.0
+2023-03-01,Teclado,Eletrônicos,Nordeste,Loja Física,1,250,0.1,250,225.0
+2023-12-20,Cadeira Gamer,Móveis,Norte,Marketplace,3,950,0.1,2850,2565.0
+2023-06-25,Teclado,Eletrônicos,Sudeste,Online,5,250,0.0,1250,1250.0
+2023-03-07,Webcam,Eletrônicos,Nordeste,Online,3,420,0.0,1260,1260.0
+2023-04-18,Teclado,Eletrônicos,Sudeste,Online,2,250,0.1,500,450.0
+2023-01-10,Armário,Móveis,Sul,Online,7,1800,0.0,12600,12600.0
+2023-01-17,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,1,350,0.1,350,315.0
+2023-01-23,Mouse,Eletrônicos,Sudeste,Online,5,120,0.0,600,600.0
+2023-11-05,Monitor,Eletrônicos,Nordeste,Online,4,1100,0.0,4400,4400.0
+2023-02-16,Teclado,Eletrônicos,Nordeste,Loja Física,5,250,0.15,1250,1062.5
+2023-03-24,Livro Técnico,Livros,Norte,Online,4,200,0.15,800,680.0
+2023-02-20,Curso Online,Educação,Sul,Marketplace,1,500,0.15,500,425.0
+2023-04-09,Smartphone,Eletrônicos,Sudeste,Marketplace,3,2800,0.15,8400,7140.0
+2023-02-20,Monitor,Eletrônicos,Norte,Online,8,1100,0.05,8800,8360.0
+2023-08-14,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,2,350,0.0,700,700.0
+2023-08-06,Monitor,Eletrônicos,Sudeste,Loja Física,4,1100,0.1,4400,3960.0
+2023-03-05,Armário,Móveis,Sul,Loja Física,2,1800,0.15,3600,3060.0
+2023-07-04,Webcam,Eletrônicos,Sudeste,Online,5,420,0.15,2100,1785.0
+2023-06-17,Armário,Móveis,Nordeste,Loja Física,2,1800,0.1,3600,3240.0
+2023-11-04,Webcam,Eletrônicos,Sul,Marketplace,5,420,0.1,2100,1890.0
+2023-07-28,Smartphone,Eletrônicos,Sudeste,Loja Física,7,2800,0.0,19600,19600.0
+2023-12-14,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,3,950,0.0,2850,2850.0
+2023-02-23,Mesa Escritório,Móveis,Sudeste,Online,8,1400,0.15,11200,9520.0
+2023-03-15,Mesa Escritório,Móveis,Sudeste,Marketplace,7,1400,0.15,9800,8330.0
+2023-03-28,Mouse,Eletrônicos,Nordeste,Online,6,120,0.0,720,720.0
+2023-11-01,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,2,1400,0.0,2800,2800.0
+2023-09-13,Smartphone,Eletrônicos,Nordeste,Loja Física,5,2800,0.1,14000,12600.0
+2023-12-08,Curso Online,Educação,Norte,Loja Física,7,500,0.1,3500,3150.0
+2023-03-17,Armário,Móveis,Nordeste,Loja Física,2,1800,0.0,3600,3600.0
+2023-09-12,Monitor,Eletrônicos,Sudeste,Marketplace,3,1100,0.0,3300,3300.0
+2023-01-28,Mouse,Eletrônicos,Sul,Loja Física,8,120,0.0,960,960.0
+2023-11-06,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,6,350,0.0,2100,2100.0
+2023-11-16,Mouse,Eletrônicos,Centro-Oeste,Loja Física,2,120,0.15,240,204.0
+2023-04-14,Smartphone,Eletrônicos,Norte,Loja Física,8,2800,0.1,22400,20160.0
+2023-10-05,Cadeira Gamer,Móveis,Centro-Oeste,Online,1,950,0.0,950,950.0
+2023-07-16,Armário,Móveis,Centro-Oeste,Loja Física,6,1800,0.1,10800,9720.0
+2023-01-19,Notebook,Eletrônicos,Nordeste,Marketplace,3,3500,0.15,10500,8925.0
+2023-03-26,Armário,Móveis,Nordeste,Marketplace,7,1800,0.0,12600,12600.0
+2023-07-19,Armário,Móveis,Centro-Oeste,Marketplace,2,1800,0.15,3600,3060.0
+2023-10-11,Fone Bluetooth,Eletrônicos,Norte,Online,8,350,0.1,2800,2520.0
+2023-09-17,Notebook,Eletrônicos,Centro-Oeste,Marketplace,7,3500,0.05,24500,23275.0
+2023-07-13,Curso Online,Educação,Nordeste,Online,6,500,0.05,3000,2850.0
+2023-01-15,Curso Online,Educação,Nordeste,Loja Física,1,500,0.0,500,500.0
+2023-10-26,Notebook,Eletrônicos,Sudeste,Loja Física,6,3500,0.1,21000,18900.0
+2023-06-26,Cadeira Gamer,Móveis,Sudeste,Marketplace,7,950,0.05,6650,6317.5
+2023-05-06,Monitor,Eletrônicos,Norte,Online,4,1100,0.05,4400,4180.0
+2023-12-19,Mouse,Eletrônicos,Nordeste,Online,5,120,0.0,600,600.0
+2023-01-11,Livro Técnico,Livros,Centro-Oeste,Marketplace,6,200,0.0,1200,1200.0
+2023-08-05,Curso Online,Educação,Sudeste,Marketplace,7,500,0.05,3500,3325.0
+2023-08-29,Curso Online,Educação,Centro-Oeste,Marketplace,1,500,0.05,500,475.0
+2023-07-19,Cadeira Gamer,Móveis,Sudeste,Marketplace,2,950,0.1,1900,1710.0
+2023-12-12,Monitor,Eletrônicos,Norte,Marketplace,6,1100,0.1,6600,5940.0
+2023-06-23,Teclado,Eletrônicos,Centro-Oeste,Online,5,250,0.05,1250,1187.5
+2023-09-12,Fone Bluetooth,Eletrônicos,Sul,Loja Física,2,350,0.15,700,595.0
+2023-05-16,Notebook,Eletrônicos,Centro-Oeste,Online,5,3500,0.15,17500,14875.0
+2023-11-16,Webcam,Eletrônicos,Sudeste,Marketplace,2,420,0.15,840,714.0
+2023-06-22,Smartphone,Eletrônicos,Norte,Loja Física,2,2800,0.15,5600,4760.0
+2023-08-07,Monitor,Eletrônicos,Nordeste,Marketplace,6,1100,0.0,6600,6600.0
+2023-06-03,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.0,8400,8400.0
+2023-05-09,Curso Online,Educação,Sul,Online,8,500,0.15,4000,3400.0
+2023-11-18,Webcam,Eletrônicos,Centro-Oeste,Online,3,420,0.15,1260,1071.0
+2023-12-05,Webcam,Eletrônicos,Norte,Marketplace,8,420,0.05,3360,3192.0
+2023-08-11,Curso Online,Educação,Sul,Loja Física,1,500,0.15,500,425.0
+2023-08-25,Teclado,Eletrônicos,Nordeste,Loja Física,4,250,0.0,1000,1000.0
+2023-07-30,Cadeira Gamer,Móveis,Centro-Oeste,Loja Física,2,950,0.0,1900,1900.0
+2023-05-27,Fone Bluetooth,Eletrônicos,Norte,Online,3,350,0.05,1050,997.5
+2023-07-27,Monitor,Eletrônicos,Sul,Online,2,1100,0.0,2200,2200.0
+2023-05-06,Smartphone,Eletrônicos,Norte,Loja Física,8,2800,0.1,22400,20160.0
+2023-08-05,Fone Bluetooth,Eletrônicos,Sul,Loja Física,1,350,0.0,350,350.0
+2023-03-11,Notebook,Eletrônicos,Norte,Online,5,3500,0.05,17500,16625.0
+2023-11-26,Notebook,Eletrônicos,Sudeste,Online,8,3500,0.0,28000,28000.0
+2023-06-10,Curso Online,Educação,Centro-Oeste,Loja Física,5,500,0.0,2500,2500.0
+2023-12-10,Fone Bluetooth,Eletrônicos,Sul,Online,2,350,0.1,700,630.0
+2023-02-27,Curso Online,Educação,Norte,Marketplace,2,500,0.15,1000,850.0
+2023-05-09,Armário,Móveis,Norte,Online,2,1800,0.0,3600,3600.0
+2023-06-10,Cadeira Gamer,Móveis,Centro-Oeste,Online,7,950,0.0,6650,6650.0
+2023-03-15,Mouse,Eletrônicos,Nordeste,Loja Física,3,120,0.0,360,360.0
+2023-07-29,Smartphone,Eletrônicos,Norte,Loja Física,1,2800,0.1,2800,2520.0
+2023-12-25,Mouse,Eletrônicos,Centro-Oeste,Loja Física,6,120,0.15,720,612.0
+2023-12-16,Monitor,Eletrônicos,Nordeste,Loja Física,5,1100,0.0,5500,5500.0
+2023-07-08,Smartphone,Eletrônicos,Sudeste,Marketplace,1,2800,0.15,2800,2380.0
+2023-12-06,Notebook,Eletrônicos,Norte,Loja Física,4,3500,0.05,14000,13300.0
+2023-06-08,Fone Bluetooth,Eletrônicos,Norte,Online,6,350,0.0,2100,2100.0
+2023-08-15,Mesa Escritório,Móveis,Nordeste,Loja Física,1,1400,0.1,1400,1260.0
+2023-02-16,Monitor,Eletrônicos,Sul,Loja Física,5,1100,0.0,5500,5500.0
+2023-11-20,Cadeira Gamer,Móveis,Nordeste,Online,7,950,0.0,6650,6650.0
+2023-09-09,Armário,Móveis,Centro-Oeste,Online,7,1800,0.05,12600,11970.0
+2023-03-24,Webcam,Eletrônicos,Sudeste,Loja Física,5,420,0.15,2100,1785.0
+2023-08-04,Curso Online,Educação,Sudeste,Online,6,500,0.1,3000,2700.0
+2023-11-25,Fone Bluetooth,Eletrônicos,Sul,Online,3,350,0.1,1050,945.0
+2023-07-25,Monitor,Eletrônicos,Norte,Online,5,1100,0.05,5500,5225.0
+2023-02-26,Teclado,Eletrônicos,Sul,Marketplace,4,250,0.15,1000,850.0
+2023-12-18,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,6,1400,0.1,8400,7560.0
+2023-03-10,Smartphone,Eletrônicos,Nordeste,Loja Física,3,2800,0.15,8400,7140.0
+2023-04-12,Mouse,Eletrônicos,Sul,Loja Física,7,120,0.05,840,798.0
+2023-07-13,Curso Online,Educação,Sudeste,Marketplace,4,500,0.0,2000,2000.0
+2023-11-28,Curso Online,Educação,Centro-Oeste,Online,4,500,0.0,2000,2000.0
+2023-05-15,Webcam,Eletrônicos,Centro-Oeste,Marketplace,3,420,0.0,1260,1260.0
+2023-08-08,Curso Online,Educação,Sudeste,Loja Física,5,500,0.0,2500,2500.0
+2023-03-29,Curso Online,Educação,Norte,Loja Física,2,500,0.0,1000,1000.0
+2023-08-21,Fone Bluetooth,Eletrônicos,Sul,Marketplace,8,350,0.0,2800,2800.0
+2023-04-15,Monitor,Eletrônicos,Centro-Oeste,Loja Física,5,1100,0.05,5500,5225.0
+2023-03-08,Mesa Escritório,Móveis,Sul,Loja Física,4,1400,0.15,5600,4760.0
+2023-12-13,Monitor,Eletrônicos,Centro-Oeste,Online,7,1100,0.0,7700,7700.0
+2023-01-15,Smartphone,Eletrônicos,Norte,Loja Física,5,2800,0.0,14000,14000.0
+2023-05-08,Cadeira Gamer,Móveis,Sudeste,Loja Física,8,950,0.0,7600,7600.0
+2023-03-10,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,7,950,0.0,6650,6650.0
+2023-08-05,Webcam,Eletrônicos,Sudeste,Marketplace,5,420,0.0,2100,2100.0
+2023-01-31,Notebook,Eletrônicos,Centro-Oeste,Loja Física,6,3500,0.0,21000,21000.0
+2023-11-07,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,1,350,0.0,350,350.0
+2023-11-14,Mesa Escritório,Móveis,Nordeste,Online,5,1400,0.1,7000,6300.0
+2023-10-14,Notebook,Eletrônicos,Sul,Marketplace,3,3500,0.05,10500,9975.0
+2023-09-10,Cadeira Gamer,Móveis,Sudeste,Loja Física,8,950,0.0,7600,7600.0
+2023-12-30,Livro Técnico,Livros,Nordeste,Online,7,200,0.0,1400,1400.0
+2023-06-10,Notebook,Eletrônicos,Nordeste,Marketplace,3,3500,0.1,10500,9450.0
+2023-07-04,Mesa Escritório,Móveis,Norte,Loja Física,5,1400,0.05,7000,6650.0
+2023-09-22,Cadeira Gamer,Móveis,Nordeste,Marketplace,7,950,0.0,6650,6650.0
+2023-09-09,Teclado,Eletrônicos,Sul,Online,8,250,0.0,2000,2000.0
+2023-01-28,Monitor,Eletrônicos,Centro-Oeste,Loja Física,3,1100,0.0,3300,3300.0
+2023-03-25,Webcam,Eletrônicos,Sudeste,Loja Física,8,420,0.1,3360,3024.0
+2023-01-21,Armário,Móveis,Centro-Oeste,Loja Física,6,1800,0.15,10800,9180.0
+2023-09-10,Mouse,Eletrônicos,Nordeste,Online,3,120,0.0,360,360.0
+2023-04-15,Smartphone,Eletrônicos,Norte,Loja Física,3,2800,0.0,8400,8400.0
+2023-10-16,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,4,350,0.15,1400,1190.0
+2023-10-20,Teclado,Eletrônicos,Sul,Loja Física,7,250,0.0,1750,1750.0
+2023-12-13,Mouse,Eletrônicos,Nordeste,Marketplace,6,120,0.0,720,720.0
+2023-12-15,Mouse,Eletrônicos,Norte,Online,7,120,0.05,840,798.0
+2023-06-15,Teclado,Eletrônicos,Centro-Oeste,Marketplace,1,250,0.0,250,250.0
+2023-12-04,Armário,Móveis,Norte,Marketplace,8,1800,0.05,14400,13680.0
+2023-01-03,Cadeira Gamer,Móveis,Centro-Oeste,Loja Física,1,950,0.15,950,807.5
+2023-10-19,Teclado,Eletrônicos,Nordeste,Loja Física,4,250,0.0,1000,1000.0
+2023-01-29,Webcam,Eletrônicos,Norte,Loja Física,2,420,0.15,840,714.0
+2023-02-17,Mesa Escritório,Móveis,Sul,Loja Física,5,1400,0.0,7000,7000.0
+2023-02-15,Notebook,Eletrônicos,Centro-Oeste,Loja Física,4,3500,0.0,14000,14000.0
+2023-05-26,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,3,350,0.0,1050,1050.0
+2023-08-10,Webcam,Eletrônicos,Sul,Loja Física,5,420,0.15,2100,1785.0
+2023-12-07,Mouse,Eletrônicos,Sul,Loja Física,6,120,0.15,720,612.0
+2023-08-17,Mesa Escritório,Móveis,Norte,Marketplace,8,1400,0.05,11200,10640.0
+2023-08-05,Mouse,Eletrônicos,Norte,Online,7,120,0.05,840,798.0
+2023-08-11,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,7,350,0.0,2450,2450.0
+2023-06-24,Armário,Móveis,Centro-Oeste,Marketplace,4,1800,0.0,7200,7200.0
+2023-11-19,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,2,350,0.05,700,665.0
+2023-02-10,Armário,Móveis,Sul,Marketplace,5,1800,0.0,9000,9000.0
+2023-06-03,Monitor,Eletrônicos,Norte,Online,7,1100,0.05,7700,7315.0
+2023-10-10,Mouse,Eletrônicos,Sudeste,Marketplace,1,120,0.15,120,102.0
+2023-08-06,Mesa Escritório,Móveis,Norte,Loja Física,2,1400,0.1,2800,2520.0
+2023-07-01,Smartphone,Eletrônicos,Sudeste,Online,2,2800,0.15,5600,4760.0
+2023-12-05,Armário,Móveis,Centro-Oeste,Online,3,1800,0.0,5400,5400.0
+2023-02-12,Mesa Escritório,Móveis,Norte,Marketplace,5,1400,0.05,7000,6650.0
+2023-08-21,Fone Bluetooth,Eletrônicos,Nordeste,Loja Física,8,350,0.15,2800,2380.0
+2023-04-06,Monitor,Eletrônicos,Norte,Loja Física,3,1100,0.0,3300,3300.0
+2023-12-11,Mouse,Eletrônicos,Sudeste,Online,7,120,0.15,840,714.0
+2023-07-22,Mouse,Eletrônicos,Centro-Oeste,Loja Física,1,120,0.0,120,120.0
+2023-12-21,Mesa Escritório,Móveis,Norte,Marketplace,8,1400,0.05,11200,10640.0
+2023-07-04,Webcam,Eletrônicos,Sudeste,Online,7,420,0.05,2940,2793.0
+2023-03-11,Notebook,Eletrônicos,Sudeste,Marketplace,4,3500,0.0,14000,14000.0
+2023-04-07,Notebook,Eletrônicos,Sul,Marketplace,4,3500,0.1,14000,12600.0
+2023-05-04,Mesa Escritório,Móveis,Nordeste,Loja Física,4,1400,0.0,5600,5600.0
+2023-03-17,Armário,Móveis,Sudeste,Online,7,1800,0.0,12600,12600.0
+2023-03-20,Webcam,Eletrônicos,Centro-Oeste,Online,8,420,0.1,3360,3024.0
+2023-08-19,Curso Online,Educação,Nordeste,Marketplace,4,500,0.0,2000,2000.0
+2023-07-20,Notebook,Eletrônicos,Sudeste,Marketplace,6,3500,0.0,21000,21000.0
+2023-08-10,Mesa Escritório,Móveis,Norte,Marketplace,8,1400,0.15,11200,9520.0
+2023-10-11,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,1,2800,0.1,2800,2520.0
+2023-09-20,Curso Online,Educação,Sudeste,Marketplace,8,500,0.0,4000,4000.0
+2023-01-10,Mesa Escritório,Móveis,Sudeste,Loja Física,6,1400,0.15,8400,7140.0
+2023-11-28,Mesa Escritório,Móveis,Centro-Oeste,Marketplace,8,1400,0.0,11200,11200.0
+2023-11-27,Cadeira Gamer,Móveis,Sudeste,Online,8,950,0.1,7600,6840.0
+2023-05-28,Webcam,Eletrônicos,Nordeste,Loja Física,4,420,0.1,1680,1512.0
+2023-04-29,Livro Técnico,Livros,Nordeste,Marketplace,4,200,0.15,800,680.0
+2023-12-03,Armário,Móveis,Centro-Oeste,Loja Física,3,1800,0.05,5400,5130.0
+2023-12-11,Fone Bluetooth,Eletrônicos,Sul,Marketplace,6,350,0.1,2100,1890.0
+2023-04-17,Smartphone,Eletrônicos,Sul,Online,2,2800,0.1,5600,5040.0
+2023-04-13,Teclado,Eletrônicos,Centro-Oeste,Loja Física,8,250,0.0,2000,2000.0
+2023-06-05,Monitor,Eletrônicos,Sudeste,Online,4,1100,0.15,4400,3740.0
+2023-07-03,Smartphone,Eletrônicos,Sul,Marketplace,6,2800,0.0,16800,16800.0
+2023-01-17,Mouse,Eletrônicos,Sudeste,Marketplace,6,120,0.1,720,648.0
+2023-04-27,Mouse,Eletrônicos,Nordeste,Loja Física,4,120,0.1,480,432.0
+2023-07-01,Notebook,Eletrônicos,Norte,Marketplace,5,3500,0.0,17500,17500.0
+2023-12-09,Mouse,Eletrônicos,Centro-Oeste,Online,1,120,0.1,120,108.0
+2023-02-24,Curso Online,Educação,Sudeste,Marketplace,2,500,0.15,1000,850.0
+2023-02-23,Teclado,Eletrônicos,Nordeste,Online,2,250,0.0,500,500.0
+2023-05-30,Webcam,Eletrônicos,Centro-Oeste,Marketplace,8,420,0.15,3360,2856.0
+2023-02-20,Teclado,Eletrônicos,Sul,Online,6,250,0.05,1500,1425.0
+2023-04-14,Armário,Móveis,Sul,Loja Física,7,1800,0.0,12600,12600.0
+2023-06-24,Smartphone,Eletrônicos,Nordeste,Loja Física,3,2800,0.0,8400,8400.0
+2023-08-01,Cadeira Gamer,Móveis,Norte,Loja Física,4,950,0.0,3800,3800.0
+2023-04-27,Teclado,Eletrônicos,Centro-Oeste,Loja Física,7,250,0.1,1750,1575.0
+2023-09-22,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,6,350,0.0,2100,2100.0
+2023-01-06,Webcam,Eletrônicos,Nordeste,Loja Física,2,420,0.0,840,840.0
+2023-07-25,Teclado,Eletrônicos,Centro-Oeste,Online,7,250,0.0,1750,1750.0
+2023-12-05,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,3,350,0.15,1050,892.5
+2023-12-05,Livro Técnico,Livros,Centro-Oeste,Marketplace,5,200,0.1,1000,900.0
+2023-12-25,Livro Técnico,Livros,Nordeste,Online,5,200,0.05,1000,950.0
+2023-05-24,Livro Técnico,Livros,Centro-Oeste,Marketplace,3,200,0.1,600,540.0
+2023-04-16,Livro Técnico,Livros,Centro-Oeste,Online,8,200,0.05,1600,1520.0
+2023-06-04,Mouse,Eletrônicos,Nordeste,Loja Física,1,120,0.15,120,102.0
+2023-03-06,Livro Técnico,Livros,Sudeste,Marketplace,5,200,0.0,1000,1000.0
+2023-10-10,Smartphone,Eletrônicos,Sudeste,Online,6,2800,0.0,16800,16800.0
+2023-10-04,Curso Online,Educação,Nordeste,Marketplace,5,500,0.0,2500,2500.0
+2023-08-05,Livro Técnico,Livros,Nordeste,Loja Física,2,200,0.0,400,400.0
+2023-11-18,Livro Técnico,Livros,Sudeste,Marketplace,6,200,0.0,1200,1200.0
+2023-03-05,Armário,Móveis,Sudeste,Loja Física,5,1800,0.15,9000,7650.0
+2023-06-23,Monitor,Eletrônicos,Nordeste,Loja Física,4,1100,0.05,4400,4180.0
+2023-12-08,Webcam,Eletrônicos,Norte,Marketplace,3,420,0.1,1260,1134.0
+2023-05-07,Mouse,Eletrônicos,Norte,Online,6,120,0.15,720,612.0
+2023-07-04,Armário,Móveis,Centro-Oeste,Loja Física,2,1800,0.0,3600,3600.0
+2023-02-11,Mouse,Eletrônicos,Sul,Loja Física,1,120,0.1,120,108.0
+2023-04-20,Armário,Móveis,Norte,Loja Física,2,1800,0.05,3600,3420.0
+2023-10-29,Livro Técnico,Livros,Norte,Loja Física,7,200,0.05,1400,1330.0
+2023-11-22,Mesa Escritório,Móveis,Centro-Oeste,Online,8,1400,0.1,11200,10080.0
+2023-03-15,Livro Técnico,Livros,Centro-Oeste,Online,3,200,0.1,600,540.0
+2023-12-27,Livro Técnico,Livros,Centro-Oeste,Loja Física,2,200,0.0,400,400.0
+2023-01-17,Webcam,Eletrônicos,Nordeste,Online,3,420,0.15,1260,1071.0
+2023-11-05,Mesa Escritório,Móveis,Nordeste,Marketplace,2,1400,0.0,2800,2800.0
+2023-05-29,Notebook,Eletrônicos,Nordeste,Loja Física,3,3500,0.0,10500,10500.0
+2023-07-11,Smartphone,Eletrônicos,Sudeste,Online,5,2800,0.1,14000,12600.0
+2023-03-14,Curso Online,Educação,Nordeste,Loja Física,7,500,0.0,3500,3500.0
+2023-04-21,Teclado,Eletrônicos,Sudeste,Marketplace,8,250,0.0,2000,2000.0
+2023-06-28,Mouse,Eletrônicos,Centro-Oeste,Marketplace,1,120,0.1,120,108.0
+2023-06-08,Curso Online,Educação,Centro-Oeste,Loja Física,8,500,0.05,4000,3800.0
+2023-11-07,Teclado,Eletrônicos,Centro-Oeste,Loja Física,3,250,0.15,750,637.5
+2023-12-08,Armário,Móveis,Sudeste,Marketplace,3,1800,0.05,5400,5130.0
+2023-12-07,Curso Online,Educação,Sul,Loja Física,7,500,0.1,3500,3150.0
+2023-06-23,Livro Técnico,Livros,Nordeste,Marketplace,1,200,0.1,200,180.0
+2023-02-15,Teclado,Eletrônicos,Nordeste,Marketplace,1,250,0.15,250,212.5
+2023-11-27,Mouse,Eletrônicos,Norte,Marketplace,2,120,0.0,240,240.0
+2023-10-23,Notebook,Eletrônicos,Norte,Online,4,3500,0.1,14000,12600.0
+2023-03-03,Fone Bluetooth,Eletrônicos,Nordeste,Online,3,350,0.0,1050,1050.0
+2023-05-06,Webcam,Eletrônicos,Norte,Marketplace,8,420,0.0,3360,3360.0
+2023-06-14,Mesa Escritório,Móveis,Sudeste,Loja Física,1,1400,0.1,1400,1260.0
+2023-08-12,Teclado,Eletrônicos,Norte,Loja Física,7,250,0.0,1750,1750.0
+2023-07-15,Smartphone,Eletrônicos,Sudeste,Marketplace,2,2800,0.0,5600,5600.0
+2023-03-28,Smartphone,Eletrônicos,Nordeste,Online,3,2800,0.0,8400,8400.0
+2023-03-20,Smartphone,Eletrônicos,Sudeste,Marketplace,7,2800,0.0,19600,19600.0
+2023-06-16,Teclado,Eletrônicos,Nordeste,Loja Física,1,250,0.0,250,250.0
+2023-02-20,Cadeira Gamer,Móveis,Nordeste,Loja Física,3,950,0.1,2850,2565.0
+2023-07-12,Mouse,Eletrônicos,Sul,Marketplace,1,120,0.0,120,120.0
+2023-10-28,Monitor,Eletrônicos,Norte,Loja Física,8,1100,0.15,8800,7480.0
+2023-02-28,Smartphone,Eletrônicos,Centro-Oeste,Marketplace,1,2800,0.05,2800,2660.0
+2023-07-28,Mouse,Eletrônicos,Centro-Oeste,Marketplace,8,120,0.0,960,960.0
+2023-04-30,Notebook,Eletrônicos,Norte,Marketplace,5,3500,0.15,17500,14875.0
+2023-02-21,Monitor,Eletrônicos,Norte,Loja Física,3,1100,0.05,3300,3135.0
+2023-08-17,Mouse,Eletrônicos,Nordeste,Marketplace,4,120,0.0,480,480.0
+2023-03-28,Monitor,Eletrônicos,Centro-Oeste,Online,7,1100,0.15,7700,6545.0
+2023-01-01,Armário,Móveis,Sudeste,Online,5,1800,0.0,9000,9000.0
+2023-09-04,Smartphone,Eletrônicos,Nordeste,Marketplace,5,2800,0.1,14000,12600.0
+2023-04-19,Curso Online,Educação,Sul,Marketplace,5,500,0.0,2500,2500.0
+2023-10-01,Curso Online,Educação,Sudeste,Loja Física,2,500,0.05,1000,950.0
+2023-12-24,Mouse,Eletrônicos,Nordeste,Loja Física,3,120,0.15,360,306.0
+2023-04-18,Curso Online,Educação,Nordeste,Marketplace,6,500,0.05,3000,2850.0
+2023-08-20,Smartphone,Eletrônicos,Nordeste,Online,4,2800,0.05,11200,10640.0
+2023-08-24,Curso Online,Educação,Sul,Marketplace,6,500,0.0,3000,3000.0
+2023-01-02,Curso Online,Educação,Sudeste,Marketplace,8,500,0.0,4000,4000.0
+2023-03-30,Mesa Escritório,Móveis,Norte,Online,8,1400,0.1,11200,10080.0
+2023-11-29,Fone Bluetooth,Eletrônicos,Sudeste,Marketplace,2,350,0.15,700,595.0
+2023-08-16,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,2,350,0.05,700,665.0
+2023-07-03,Mesa Escritório,Móveis,Sudeste,Loja Física,3,1400,0.0,4200,4200.0
+2023-07-09,Monitor,Eletrônicos,Sul,Marketplace,8,1100,0.0,8800,8800.0
+2023-01-11,Smartphone,Eletrônicos,Sudeste,Marketplace,6,2800,0.0,16800,16800.0
+2023-11-17,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,4,2800,0.0,11200,11200.0
+2023-01-19,Smartphone,Eletrônicos,Sul,Online,8,2800,0.15,22400,19040.0
+2023-04-11,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,7,350,0.0,2450,2450.0
+2023-09-14,Armário,Móveis,Sul,Marketplace,3,1800,0.15,5400,4590.0
+2023-10-17,Fone Bluetooth,Eletrônicos,Norte,Online,3,350,0.0,1050,1050.0
+2023-02-03,Teclado,Eletrônicos,Sul,Marketplace,5,250,0.15,1250,1062.5
+2023-05-21,Monitor,Eletrônicos,Norte,Loja Física,1,1100,0.15,1100,935.0
+2023-12-15,Livro Técnico,Livros,Centro-Oeste,Marketplace,8,200,0.0,1600,1600.0
+2023-12-11,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,1,350,0.05,350,332.5
+2023-05-21,Mouse,Eletrônicos,Nordeste,Marketplace,8,120,0.1,960,864.0
+2023-01-23,Webcam,Eletrônicos,Nordeste,Loja Física,4,420,0.0,1680,1680.0
+2023-09-30,Armário,Móveis,Centro-Oeste,Online,6,1800,0.0,10800,10800.0
+2023-06-21,Mouse,Eletrônicos,Centro-Oeste,Online,1,120,0.0,120,120.0
+2023-05-08,Monitor,Eletrônicos,Nordeste,Online,3,1100,0.05,3300,3135.0
+2023-11-17,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,2,350,0.0,700,700.0
+2023-01-13,Curso Online,Educação,Sul,Online,6,500,0.05,3000,2850.0
+2023-08-31,Monitor,Eletrônicos,Nordeste,Marketplace,6,1100,0.0,6600,6600.0
+2023-05-02,Mouse,Eletrônicos,Centro-Oeste,Marketplace,8,120,0.0,960,960.0
+2023-03-05,Mouse,Eletrônicos,Centro-Oeste,Loja Física,1,120,0.0,120,120.0
+2023-12-22,Mouse,Eletrônicos,Centro-Oeste,Online,3,120,0.0,360,360.0
+2023-06-04,Curso Online,Educação,Sudeste,Marketplace,7,500,0.0,3500,3500.0
+2023-01-29,Livro Técnico,Livros,Centro-Oeste,Loja Física,1,200,0.05,200,190.0
+2023-02-19,Curso Online,Educação,Norte,Marketplace,7,500,0.0,3500,3500.0
+2023-11-16,Notebook,Eletrônicos,Centro-Oeste,Loja Física,8,3500,0.1,28000,25200.0
+2023-11-14,Curso Online,Educação,Sudeste,Loja Física,2,500,0.05,1000,950.0
+2023-09-22,Cadeira Gamer,Móveis,Sudeste,Online,4,950,0.0,3800,3800.0
+2023-11-01,Webcam,Eletrônicos,Sul,Marketplace,2,420,0.15,840,714.0
+2023-03-06,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,5,350,0.05,1750,1662.5
+2023-11-14,Armário,Móveis,Sul,Online,3,1800,0.0,5400,5400.0
+2023-01-31,Teclado,Eletrônicos,Centro-Oeste,Marketplace,5,250,0.15,1250,1062.5
+2023-11-30,Cadeira Gamer,Móveis,Norte,Online,5,950,0.15,4750,4037.5
+2023-03-17,Armário,Móveis,Nordeste,Loja Física,5,1800,0.15,9000,7650.0
+2023-07-08,Notebook,Eletrônicos,Sul,Marketplace,3,3500,0.0,10500,10500.0
+2023-10-14,Notebook,Eletrônicos,Sul,Online,7,3500,0.05,24500,23275.0
+2023-11-24,Monitor,Eletrônicos,Sul,Marketplace,2,1100,0.05,2200,2090.0
+2023-09-01,Webcam,Eletrônicos,Nordeste,Marketplace,8,420,0.15,3360,2856.0
+2023-10-17,Cadeira Gamer,Móveis,Nordeste,Online,5,950,0.1,4750,4275.0
+2023-02-23,Armário,Móveis,Sul,Online,1,1800,0.1,1800,1620.0
+2023-11-24,Monitor,Eletrônicos,Norte,Online,4,1100,0.1,4400,3960.0
+2023-05-03,Armário,Móveis,Sul,Loja Física,6,1800,0.1,10800,9720.0
+2023-04-05,Notebook,Eletrônicos,Sudeste,Loja Física,6,3500,0.0,21000,21000.0
+2023-01-16,Livro Técnico,Livros,Nordeste,Loja Física,2,200,0.0,400,400.0
+2023-04-10,Fone Bluetooth,Eletrônicos,Sudeste,Online,6,350,0.0,2100,2100.0
+2023-04-12,Smartphone,Eletrônicos,Nordeste,Marketplace,3,2800,0.0,8400,8400.0
+2023-03-31,Cadeira Gamer,Móveis,Sul,Online,4,950,0.0,3800,3800.0
+2023-04-01,Smartphone,Eletrônicos,Sul,Loja Física,2,2800,0.0,5600,5600.0
+2023-12-02,Mouse,Eletrônicos,Nordeste,Loja Física,6,120,0.0,720,720.0
+2023-05-03,Cadeira Gamer,Móveis,Norte,Marketplace,6,950,0.0,5700,5700.0
+2023-08-11,Webcam,Eletrônicos,Sul,Online,2,420,0.0,840,840.0
+2023-04-08,Monitor,Eletrônicos,Nordeste,Marketplace,7,1100,0.05,7700,7315.0
+2023-08-08,Fone Bluetooth,Eletrônicos,Norte,Marketplace,4,350,0.0,1400,1400.0
+2023-04-07,Livro Técnico,Livros,Nordeste,Online,5,200,0.0,1000,1000.0
+2023-01-28,Fone Bluetooth,Eletrônicos,Norte,Marketplace,5,350,0.0,1750,1750.0
+2023-09-08,Monitor,Eletrônicos,Norte,Online,2,1100,0.1,2200,1980.0
+2023-03-27,Livro Técnico,Livros,Nordeste,Loja Física,7,200,0.15,1400,1190.0
+2023-09-23,Armário,Móveis,Nordeste,Marketplace,3,1800,0.05,5400,5130.0
+2023-12-22,Armário,Móveis,Nordeste,Marketplace,8,1800,0.1,14400,12960.0
+2023-07-25,Fone Bluetooth,Eletrônicos,Sul,Online,1,350,0.0,350,350.0
+2023-08-20,Monitor,Eletrônicos,Nordeste,Loja Física,7,1100,0.0,7700,7700.0
+2023-07-13,Curso Online,Educação,Nordeste,Marketplace,3,500,0.05,1500,1425.0
+2023-02-13,Teclado,Eletrônicos,Centro-Oeste,Marketplace,2,250,0.05,500,475.0
+2023-06-30,Monitor,Eletrônicos,Norte,Marketplace,1,1100,0.1,1100,990.0
+2023-06-22,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,8,1400,0.1,11200,10080.0
+2023-07-08,Armário,Móveis,Centro-Oeste,Online,6,1800,0.05,10800,10260.0
+2023-04-02,Armário,Móveis,Sudeste,Loja Física,4,1800,0.05,7200,6840.0
+2023-02-12,Smartphone,Eletrônicos,Sul,Online,2,2800,0.05,5600,5320.0
+2023-03-02,Mouse,Eletrônicos,Norte,Online,6,120,0.0,720,720.0
+2023-06-20,Monitor,Eletrônicos,Nordeste,Marketplace,6,1100,0.05,6600,6270.0
+2023-12-16,Smartphone,Eletrônicos,Sul,Marketplace,4,2800,0.15,11200,9520.0
+2023-10-06,Smartphone,Eletrônicos,Nordeste,Loja Física,1,2800,0.05,2800,2660.0
+2023-07-26,Mesa Escritório,Móveis,Norte,Online,1,1400,0.1,1400,1260.0
+2023-07-23,Monitor,Eletrônicos,Centro-Oeste,Online,4,1100,0.0,4400,4400.0
+2023-09-22,Curso Online,Educação,Nordeste,Online,8,500,0.1,4000,3600.0
+2023-06-10,Monitor,Eletrônicos,Sul,Loja Física,7,1100,0.1,7700,6930.0
+2023-08-19,Livro Técnico,Livros,Sul,Marketplace,1,200,0.05,200,190.0
+2023-03-07,Smartphone,Eletrônicos,Nordeste,Loja Física,1,2800,0.1,2800,2520.0
+2023-04-26,Mesa Escritório,Móveis,Norte,Loja Física,7,1400,0.1,9800,8820.0
+2023-06-16,Curso Online,Educação,Sudeste,Online,1,500,0.15,500,425.0
+2023-03-20,Cadeira Gamer,Móveis,Sul,Loja Física,7,950,0.1,6650,5985.0
+2023-02-02,Livro Técnico,Livros,Centro-Oeste,Online,7,200,0.0,1400,1400.0
+2023-06-18,Curso Online,Educação,Sudeste,Online,8,500,0.05,4000,3800.0
+2023-02-23,Fone Bluetooth,Eletrônicos,Norte,Loja Física,3,350,0.0,1050,1050.0
+2023-01-14,Teclado,Eletrônicos,Centro-Oeste,Loja Física,4,250,0.0,1000,1000.0
+2023-04-16,Monitor,Eletrônicos,Sudeste,Loja Física,5,1100,0.15,5500,4675.0
+2023-01-30,Cadeira Gamer,Móveis,Nordeste,Loja Física,1,950,0.0,950,950.0
+2023-07-20,Teclado,Eletrônicos,Norte,Loja Física,2,250,0.0,500,500.0
+2023-09-02,Webcam,Eletrônicos,Sul,Online,2,420,0.1,840,756.0
+2023-04-16,Smartphone,Eletrônicos,Sul,Marketplace,7,2800,0.1,19600,17640.0
+2023-10-22,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,4,2800,0.15,11200,9520.0
+2023-04-14,Notebook,Eletrônicos,Sudeste,Loja Física,3,3500,0.1,10500,9450.0
+2023-11-06,Monitor,Eletrônicos,Centro-Oeste,Loja Física,6,1100,0.15,6600,5610.0
+2023-08-25,Curso Online,Educação,Nordeste,Marketplace,1,500,0.0,500,500.0
+2023-08-22,Cadeira Gamer,Móveis,Norte,Online,5,950,0.1,4750,4275.0
+2023-08-01,Monitor,Eletrônicos,Centro-Oeste,Loja Física,3,1100,0.15,3300,2805.0
+2023-07-16,Fone Bluetooth,Eletrônicos,Sudeste,Loja Física,3,350,0.15,1050,892.5
+2023-12-24,Notebook,Eletrônicos,Nordeste,Marketplace,4,3500,0.0,14000,14000.0
+2023-10-03,Smartphone,Eletrônicos,Centro-Oeste,Loja Física,2,2800,0.0,5600,5600.0
+2023-10-11,Mouse,Eletrônicos,Sudeste,Marketplace,6,120,0.0,720,720.0
+2023-06-16,Mesa Escritório,Móveis,Nordeste,Online,8,1400,0.0,11200,11200.0
+2023-09-17,Notebook,Eletrônicos,Sudeste,Marketplace,8,3500,0.0,28000,28000.0
+2023-12-22,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,8,350,0.1,2800,2520.0
+2023-07-24,Monitor,Eletrônicos,Sudeste,Loja Física,7,1100,0.0,7700,7700.0
+2023-02-28,Webcam,Eletrônicos,Centro-Oeste,Loja Física,3,420,0.05,1260,1197.0
+2023-08-25,Mouse,Eletrônicos,Sul,Marketplace,2,120,0.15,240,204.0
+2023-08-13,Teclado,Eletrônicos,Sul,Online,8,250,0.05,2000,1900.0
+2023-01-10,Curso Online,Educação,Nordeste,Online,2,500,0.0,1000,1000.0
+2023-10-01,Webcam,Eletrônicos,Sudeste,Marketplace,7,420,0.0,2940,2940.0
+2023-01-06,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,5,350,0.0,1750,1750.0
+2023-04-02,Monitor,Eletrônicos,Sul,Loja Física,1,1100,0.15,1100,935.0
+2023-12-23,Notebook,Eletrônicos,Nordeste,Loja Física,2,3500,0.1,7000,6300.0
+2023-01-27,Curso Online,Educação,Centro-Oeste,Online,1,500,0.0,500,500.0
+2023-05-08,Cadeira Gamer,Móveis,Sudeste,Online,4,950,0.0,3800,3800.0
+2023-08-04,Notebook,Eletrônicos,Sul,Marketplace,1,3500,0.05,3500,3325.0
+2023-12-09,Mouse,Eletrônicos,Sul,Marketplace,4,120,0.0,480,480.0
+2023-03-27,Notebook,Eletrônicos,Sudeste,Loja Física,7,3500,0.15,24500,20825.0
+2023-06-15,Livro Técnico,Livros,Sul,Marketplace,4,200,0.15,800,680.0
+2023-07-22,Mesa Escritório,Móveis,Sul,Online,2,1400,0.0,2800,2800.0
+2023-07-02,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,3,950,0.0,2850,2850.0
+2023-06-11,Notebook,Eletrônicos,Centro-Oeste,Online,7,3500,0.0,24500,24500.0
+2023-02-03,Fone Bluetooth,Eletrônicos,Nordeste,Online,5,350,0.15,1750,1487.5
+2023-02-04,Monitor,Eletrônicos,Norte,Loja Física,7,1100,0.05,7700,7315.0
+2023-02-22,Webcam,Eletrônicos,Sudeste,Marketplace,3,420,0.05,1260,1197.0
+2023-06-16,Fone Bluetooth,Eletrônicos,Nordeste,Online,7,350,0.0,2450,2450.0
+2023-11-22,Webcam,Eletrônicos,Sudeste,Loja Física,6,420,0.1,2520,2268.0
+2023-01-10,Curso Online,Educação,Norte,Marketplace,8,500,0.1,4000,3600.0
+2023-04-30,Livro Técnico,Livros,Sudeste,Marketplace,1,200,0.0,200,200.0
+2023-03-05,Smartphone,Eletrônicos,Sul,Marketplace,4,2800,0.1,11200,10080.0
+2023-02-10,Notebook,Eletrônicos,Centro-Oeste,Loja Física,3,3500,0.05,10500,9975.0
+2023-04-14,Teclado,Eletrônicos,Sudeste,Online,7,250,0.0,1750,1750.0
+2023-11-03,Armário,Móveis,Nordeste,Loja Física,6,1800,0.0,10800,10800.0
+2023-11-26,Notebook,Eletrônicos,Sudeste,Online,7,3500,0.05,24500,23275.0
+2023-06-19,Cadeira Gamer,Móveis,Norte,Online,4,950,0.0,3800,3800.0
+2023-12-07,Monitor,Eletrônicos,Centro-Oeste,Marketplace,4,1100,0.15,4400,3740.0
+2023-06-14,Teclado,Eletrônicos,Sudeste,Loja Física,8,250,0.0,2000,2000.0
+2023-02-05,Monitor,Eletrônicos,Sul,Online,1,1100,0.0,1100,1100.0
+2023-02-16,Teclado,Eletrônicos,Norte,Online,4,250,0.0,1000,1000.0
+2023-08-07,Webcam,Eletrônicos,Sul,Marketplace,8,420,0.05,3360,3192.0
+2023-04-12,Monitor,Eletrônicos,Norte,Online,7,1100,0.0,7700,7700.0
+2023-06-05,Smartphone,Eletrônicos,Nordeste,Loja Física,8,2800,0.0,22400,22400.0
+2023-02-10,Cadeira Gamer,Móveis,Sul,Loja Física,7,950,0.1,6650,5985.0
+2023-08-14,Mesa Escritório,Móveis,Centro-Oeste,Online,7,1400,0.0,9800,9800.0
+2023-07-15,Mesa Escritório,Móveis,Norte,Marketplace,2,1400,0.05,2800,2660.0
+2023-03-20,Livro Técnico,Livros,Centro-Oeste,Loja Física,3,200,0.05,600,570.0
+2023-06-06,Armário,Móveis,Norte,Marketplace,5,1800,0.1,9000,8100.0
+2023-09-04,Mouse,Eletrônicos,Centro-Oeste,Online,6,120,0.0,720,720.0
+2023-03-21,Monitor,Eletrônicos,Norte,Marketplace,1,1100,0.0,1100,1100.0
+2023-07-11,Armário,Móveis,Centro-Oeste,Marketplace,7,1800,0.1,12600,11340.0
+2023-07-11,Mesa Escritório,Móveis,Norte,Online,8,1400,0.05,11200,10640.0
+2023-07-29,Notebook,Eletrônicos,Norte,Online,2,3500,0.1,7000,6300.0
+2023-04-10,Mesa Escritório,Móveis,Norte,Marketplace,5,1400,0.05,7000,6650.0
+2023-09-08,Fone Bluetooth,Eletrônicos,Centro-Oeste,Loja Física,6,350,0.0,2100,2100.0
+2023-05-07,Monitor,Eletrônicos,Nordeste,Marketplace,8,1100,0.0,8800,8800.0
+2023-12-28,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,1,350,0.0,350,350.0
+2023-08-22,Fone Bluetooth,Eletrônicos,Sul,Marketplace,3,350,0.05,1050,997.5
+2023-10-24,Fone Bluetooth,Eletrônicos,Sudeste,Online,3,350,0.0,1050,1050.0
+2023-11-26,Webcam,Eletrônicos,Norte,Online,7,420,0.1,2940,2646.0
+2023-09-23,Monitor,Eletrônicos,Centro-Oeste,Loja Física,7,1100,0.0,7700,7700.0
+2023-12-21,Smartphone,Eletrônicos,Nordeste,Marketplace,7,2800,0.15,19600,16660.0
+2023-07-30,Webcam,Eletrônicos,Norte,Loja Física,2,420,0.0,840,840.0
+2023-03-15,Smartphone,Eletrônicos,Nordeste,Online,4,2800,0.1,11200,10080.0
+2023-03-28,Armário,Móveis,Sudeste,Marketplace,1,1800,0.0,1800,1800.0
+2023-08-02,Livro Técnico,Livros,Centro-Oeste,Online,7,200,0.05,1400,1330.0
+2023-04-01,Cadeira Gamer,Móveis,Sul,Loja Física,3,950,0.0,2850,2850.0
+2023-04-04,Livro Técnico,Livros,Norte,Online,2,200,0.1,400,360.0
+2023-04-06,Monitor,Eletrônicos,Sul,Loja Física,1,1100,0.0,1100,1100.0
+2023-07-29,Armário,Móveis,Sudeste,Loja Física,2,1800,0.0,3600,3600.0
+2023-02-13,Mesa Escritório,Móveis,Sudeste,Loja Física,2,1400,0.05,2800,2660.0
+2023-01-16,Curso Online,Educação,Centro-Oeste,Marketplace,4,500,0.1,2000,1800.0
+2023-02-21,Notebook,Eletrônicos,Sudeste,Marketplace,1,3500,0.05,3500,3325.0
+2023-10-26,Notebook,Eletrônicos,Norte,Online,2,3500,0.0,7000,7000.0
+2023-07-12,Curso Online,Educação,Centro-Oeste,Loja Física,5,500,0.1,2500,2250.0
+2023-11-06,Mesa Escritório,Móveis,Nordeste,Loja Física,6,1400,0.05,8400,7980.0
+2023-05-03,Cadeira Gamer,Móveis,Norte,Online,7,950,0.1,6650,5985.0
+2023-07-02,Cadeira Gamer,Móveis,Centro-Oeste,Marketplace,2,950,0.0,1900,1900.0
+2023-07-25,Webcam,Eletrônicos,Norte,Online,3,420,0.0,1260,1260.0
+2023-09-29,Smartphone,Eletrônicos,Centro-Oeste,Marketplace,4,2800,0.05,11200,10640.0
+2023-12-18,Fone Bluetooth,Eletrônicos,Centro-Oeste,Marketplace,8,350,0.15,2800,2380.0
+2023-04-07,Notebook,Eletrônicos,Nordeste,Online,6,3500,0.0,21000,21000.0
+2023-06-16,Fone Bluetooth,Eletrônicos,Norte,Loja Física,8,350,0.0,2800,2800.0
+2023-07-24,Webcam,Eletrônicos,Centro-Oeste,Loja Física,2,420,0.05,840,798.0
+2023-12-04,Webcam,Eletrônicos,Nordeste,Marketplace,2,420,0.1,840,756.0
+2023-04-10,Webcam,Eletrônicos,Norte,Marketplace,3,420,0.15,1260,1071.0
+2023-09-16,Notebook,Eletrônicos,Sudeste,Loja Física,3,3500,0.1,10500,9450.0
+2023-12-11,Livro Técnico,Livros,Centro-Oeste,Online,8,200,0.0,1600,1600.0
+2023-09-04,Fone Bluetooth,Eletrônicos,Sul,Online,4,350,0.0,1400,1400.0
+2023-12-04,Webcam,Eletrônicos,Centro-Oeste,Marketplace,2,420,0.0,840,840.0
+2023-01-15,Teclado,Eletrônicos,Nordeste,Online,6,250,0.1,1500,1350.0
+2023-05-12,Fone Bluetooth,Eletrônicos,Sul,Marketplace,8,350,0.0,2800,2800.0
+2023-11-21,Webcam,Eletrônicos,Nordeste,Online,8,420,0.0,3360,3360.0
+2023-10-22,Curso Online,Educação,Centro-Oeste,Marketplace,2,500,0.05,1000,950.0
+2023-07-15,Fone Bluetooth,Eletrônicos,Sul,Loja Física,7,350,0.0,2450,2450.0
+2023-03-01,Smartphone,Eletrônicos,Sudeste,Loja Física,2,2800,0.0,5600,5600.0
+2023-10-31,Monitor,Eletrônicos,Nordeste,Online,2,1100,0.15,2200,1870.0
+2023-06-10,Mesa Escritório,Móveis,Sudeste,Marketplace,1,1400,0.05,1400,1330.0
+2023-10-02,Monitor,Eletrônicos,Nordeste,Loja Física,7,1100,0.1,7700,6930.0
+2023-12-14,Teclado,Eletrônicos,Centro-Oeste,Online,4,250,0.0,1000,1000.0
+2023-10-03,Armário,Móveis,Nordeste,Online,6,1800,0.0,10800,10800.0
+2023-09-13,Fone Bluetooth,Eletrônicos,Norte,Loja Física,8,350,0.0,2800,2800.0
+2023-03-16,Webcam,Eletrônicos,Nordeste,Loja Física,1,420,0.15,420,357.0
+2023-09-15,Webcam,Eletrônicos,Norte,Loja Física,2,420,0.05,840,798.0
+2023-11-20,Monitor,Eletrônicos,Centro-Oeste,Online,8,1100,0.05,8800,8360.0
+2023-06-20,Teclado,Eletrônicos,Sudeste,Online,4,250,0.0,1000,1000.0
+2023-09-07,Webcam,Eletrônicos,Sul,Online,7,420,0.05,2940,2793.0
+2023-10-08,Mesa Escritório,Móveis,Centro-Oeste,Loja Física,6,1400,0.1,8400,7560.0
+2023-07-20,Mesa Escritório,Móveis,Nordeste,Loja Física,2,1400,0.15,2800,2380.0
+2023-12-23,Monitor,Eletrônicos,Sul,Loja Física,7,1100,0.0,7700,7700.0
+2023-10-25,Notebook,Eletrônicos,Sul,Marketplace,5,3500,0.1,17500,15750.0
+2023-03-12,Armário,Móveis,Sul,Online,8,1800,0.05,14400,13680.0
+2023-04-22,Webcam,Eletrônicos,Nordeste,Marketplace,4,420,0.0,1680,1680.0
+2023-10-22,Mouse,Eletrônicos,Centro-Oeste,Marketplace,3,120,0.1,360,324.0
+2023-03-28,Notebook,Eletrônicos,Centro-Oeste,Online,2,3500,0.05,7000,6650.0
+2023-01-27,Mouse,Eletrônicos,Centro-Oeste,Online,6,120,0.15,720,612.0
+2023-11-18,Webcam,Eletrônicos,Sudeste,Online,7,420,0.0,2940,2940.0
+2023-05-04,Mesa Escritório,Móveis,Norte,Online,8,1400,0.05,11200,10640.0
+2023-12-01,Webcam,Eletrônicos,Centro-Oeste,Marketplace,7,420,0.0,2940,2940.0
+2023-07-15,Smartphone,Eletrônicos,Sudeste,Online,8,2800,0.05,22400,21280.0
+2023-03-01,Mouse,Eletrônicos,Norte,Online,2,120,0.1,240,216.0
+2023-01-12,Curso Online,Educação,Sudeste,Marketplace,8,500,0.05,4000,3800.0
+2023-04-03,Mesa Escritório,Móveis,Nordeste,Marketplace,8,1400,0.1,11200,10080.0
+2023-03-06,Mouse,Eletrônicos,Norte,Online,6,120,0.0,720,720.0
+2023-07-27,Webcam,Eletrônicos,Norte,Marketplace,1,420,0.1,420,378.0
+2023-09-29,Armário,Móveis,Norte,Marketplace,2,1800,0.15,3600,3060.0
+2023-11-30,Mouse,Eletrônicos,Sul,Marketplace,4,120,0.0,480,480.0
+2023-12-22,Teclado,Eletrônicos,Centro-Oeste,Loja Física,1,250,0.15,250,212.5
+2023-03-04,Notebook,Eletrônicos,Sul,Marketplace,3,3500,0.15,10500,8925.0
+2023-03-24,Mouse,Eletrônicos,Sudeste,Online,5,120,0.0,600,600.0
+2023-09-17,Smartphone,Eletrônicos,Sul,Loja Física,6,2800,0.15,16800,14280.0
+2023-12-03,Notebook,Eletrônicos,Sudeste,Marketplace,4,3500,0.05,14000,13300.0
+2023-05-31,Fone Bluetooth,Eletrônicos,Norte,Loja Física,8,350,0.0,2800,2800.0
+2023-12-22,Cadeira Gamer,Móveis,Norte,Marketplace,6,950,0.15,5700,4845.0
+2023-04-18,Webcam,Eletrônicos,Sul,Online,2,420,0.0,840,840.0
+2023-04-07,Teclado,Eletrônicos,Sul,Marketplace,5,250,0.0,1250,1250.0
+2023-10-10,Monitor,Eletrônicos,Sul,Marketplace,6,1100,0.05,6600,6270.0
+2023-11-15,Mesa Escritório,Móveis,Nordeste,Loja Física,2,1400,0.15,2800,2380.0
+2023-07-15,Fone Bluetooth,Eletrônicos,Centro-Oeste,Online,3,350,0.1,1050,945.0
+2023-05-11,Fone Bluetooth,Eletrônicos,Norte,Online,7,350,0.0,2450,2450.0
+2023-02-06,Fone Bluetooth,Eletrônicos,Nordeste,Marketplace,5,350,0.0,1750,1750.0
+2023-12-03,Fone Bluetooth,Eletrônicos,Sul,Loja Física,3,350,0.1,1050,945.0
