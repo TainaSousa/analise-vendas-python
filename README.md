@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas – Python & Power BI
 
-## 📌 Objetivo:
+##  Objetivo:
 Projeto de análise de vendas com foco em insights de negócio, utilizando Python para análise exploratória dos dados e Power BI para visualização interativa.
 
 
