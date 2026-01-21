@@ -29,4 +29,7 @@ Projeto de análise de vendas com foco em insights de negócio, utilizando Pytho
 O dashboard foi desenvolvido no Power BI com foco em análise executiva de vendas.
 
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
+- ´analise-vendas-python.ipynb`: Notebook com análise exploratória utilizando Python e pandas.
+- ´dashboard-vendas-powerbi.pbix`: Arquivo do Power BI com visualizações interativas.
+- ´dataset_vendas.csv`: Conjunto de dados original utilizado na análise.
